@@ -27,6 +27,28 @@
       </nav>
     </header>
     <ChapterViewer />
+    <footer class="book__footer">
+      <button v-on:click="toggleChapters()">
+        <span v-if="!isShowingChapters">&darr;</span>
+        <span v-if="isShowingChapters">&uarr;</span>
+      </button>
+      <nav class="nav book__nav nav--chapters" v-if="isShowingChapters">
+        <ul class="nav__list">
+          <li
+            class="nav__item"
+            v-for="chapter of chapters"
+            v-bind:key="(`chapter-nav-${chapter.chapterNumber}`)"
+            >
+            <a
+              class="nav__itemLink"
+              v-on:click="setCurrentChapter(chapter.chapterNumber)"
+              >
+                {{chapter.chapterNumber}}
+              </a>
+          </li>
+        </ul>
+      </nav>
+    </footer>
   </section>
 </template>
 <script>
