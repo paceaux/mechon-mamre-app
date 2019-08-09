@@ -1,0 +1,814 @@
+{
+    "canonicalBookName": "Lamentations",
+    "chapters": {
+        "2": {
+            "chapterNumber": 2,
+            "canonicalTitle": "Lamentations Chapter 2",
+            "verses": {
+                "1": {
+                    "hebrew": "\u2020\u2020\u0430\u2248\u0439\u043b\u00bb\u0434 \u0439\u00bb\u0442\u0192\u0439\u0431 \u0431\u045b\u0458\u0430\u00ab\u0444\u045b\u0435\u2026 \u0430\u00ac\u0433\u2026\u0440\u00bb\u0439, \u0430\u2206\u044a-\u0431\u045b\u00ab\u044a-\u0446\u0192\u0439\u045b\u0435\u2026\u043f--\u0434\u0192\u0449\u2014\u0458\u043c\u0192\u0439\u043a\u0458 \u043e\u0192\u0449\u045b\u2014\u00bb\u043e\u00ab\u0439\u0192\u043d \u0430\u2206\u0448\u2206\u0445, \u044a\u045b\u0192\u0444\u0458\u0430\u2206\u0448\u2206\u044a \u0439\u0192\u0449\u201c\u0458\u0448\u00bb\u0430\u2248\u043c; \u0435\u0458\u043c\u2026\u0430-\u0436\u00bb\u043b\u00ab\u0448 \u0434\u00ac\u0433\u2026\u043d-\u0448\u00ab\u0432\u0458\u043c\u00bb\u0439\u0435, \u0431\u045b\u0458\u0439\u0435\u2026\u043d \u0430\u00ab\u0444\u045b\u0435\u2026.\u2020 {\u0441}",
+                    "english": "How hath the Lord covered with a cloud the daughter of Zion in His anger! He hath cast down from heaven unto the earth the beauty of Israel, and hath not remembered His footstool in the day of His anger. {S}",
+                    "verseNumber": 1
+                },
+                "2": {
+                    "hebrew": "\u2020\u2020\u0431\u045b\u0192\u043c\u045b\u00ab\u0442 \u0430\u00ac\u0433\u2026\u0440\u00bb\u0439 \u043c\u0430 (\u0435\u0458\u043c\u2026\u0430) \u0437\u00bb\u043e\u00ab\u043c, \u0430\u2248\u044a \u043b\u045b\u00bb\u043c-\u0440\u0458\u0430\u0435\u2026\u044a \u0439\u00ab\u0442\u00ac\u0447\u2026\u0431--\u0434\u00bb\u0448\u00ab\u0441 \u0431\u045b\u0458\u0442\u2206\u0431\u0458\u0448\u00bb\u044a\u0435\u2026 \u043e\u0192\u0431\u0458\u0446\u0458\u0448\u2248\u0439 \u0431\u00ab\u044a-\u0439\u0458\u0434\u0435\u045b\u0433\u00bb\u0434, \u0434\u0192\u0432\u045b\u0192\u0439\u0442\u00ab \u043c\u00bb\u0430\u00bb\u0448\u2206\u0445; \u0437\u0192\u043c\u045b\u2248\u043c \u043e\u00ab\u043e\u0458\u043c\u00bb\u043b\u00bb\u0434, \u0435\u0458\u0449\u201c\u00bb\u0448\u2206\u0439\u0434\u00bb.\u2020 {\u0441}",
+                    "english": "The Lord hath swallowed up unsparingly all the habitations of Jacob; He hath thrown down in His wrath the strongholds of the daughter of Judah; He hath brought them down to the ground; He hath profaned the kingdom and the princes thereof. {S}",
+                    "verseNumber": 2
+                },
+                "3": {
+                    "hebrew": "\u2020\u2020\u0432\u045b\u00bb\u0433\u00ab\u0442 \u0431\u045b\u00bb\u0437\u221a\u0448\u0192\u0439-\u0430\u00ab\u0443, \u043b\u045b\u2026\u043c \u0447\u2206\u0448\u2206\u043f \u0439\u0192\u0449\u201c\u0458\u0448\u00bb\u0430\u2248\u043c--\u0434\u2248\u0449\u2014\u0192\u0439\u0431 \u0430\u00bb\u0437\u0435\u2026\u0448 \u0439\u0458\u043e\u0192\u0439\u0440\u0435\u2026, \u043e\u0192\u0444\u045b\u0458\u0440\u2248\u0439 \u0430\u0435\u2026\u0439\u2248\u0431; \u0435\u00ab\u0439\u045b\u0192\u0431\u0458\u0442\u00ab\u0448 \u0431\u045b\u0458\u0439\u00ab\u0442\u00ac\u0447\u2026\u0431 \u043b\u045b\u0458\u0430\u2248\u0449\u2014 \u043c\u2206\u0434\u00bb\u0431\u00bb\u0434, \u0430\u00bb\u043b\u0458\u043c\u00bb\u0434 \u0441\u00bb\u0431\u0192\u0439\u0431.\u2020 {\u0441}",
+                    "english": "He hath cut off in fierce anger all the horn of Israel; He hath drawn back His right hand from before the enemy; and He hath burned in Jacob like a flaming fire, which devoureth round about. {S}",
+                    "verseNumber": 3
+                },
+                "4": {
+                    "hebrew": "\u2020\u2020\u0433\u045b\u00bb\u0448\u00ab\u043a\u0458 \u0447\u00ab\u0449\u2014\u0458\u044a\u045b\u0435\u2026 \u043b\u045b\u0458\u0430\u0435\u2026\u0439\u2248\u0431, \u0440\u0192\u0446\u045b\u00bb\u0431 \u0439\u0458\u043e\u0192\u0439\u0440\u0435\u2026 \u043b\u045b\u0458\u0446\u00bb\u0448, \u0435\u00ab\u0439\u045b\u00ab\u0434\u00ac\u0448\u2026\u0432, \u043b\u045b\u2026\u043c \u043e\u00ab\u0437\u00ac\u043e\u00ab\u0433\u045b\u2248\u0439-\u0442\u00bb\u0439\u0192\u043f; \u0431\u045b\u0458\u0430\u2026\u0434\u2206\u043c, \u0431\u045b\u00ab\u044a-\u0446\u0192\u0439\u045b\u0435\u2026\u043f, \u0449\u2014\u00bb\u0444\u00ab\u043a\u0458 \u043b\u045b\u00bb\u0430\u2248\u0449\u2014, \u0437\u00ac\u043e\u00bb\u044a\u0435\u2026.\u2020 {\u0441}",
+                    "english": "He hath bent His bow like an enemy, standing with His right hand as an adversary, and hath slain all that were pleasant to the eye; in the tent of the daughter of Zion He hath poured out His fury like fire. {S}",
+                    "verseNumber": 4
+                },
+                "5": {
+                    "hebrew": "\u2020\u2020\u0434\u00bb\u0439\u00bb\u0434 \u0430\u00ac\u0433\u2026\u0440\u00bb\u0439 \u043b\u045b\u0458\u0430\u0435\u2026\u0439\u2248\u0431, \u0431\u045b\u0192\u043c\u045b\u00ab\u0442 \u0439\u0192\u0449\u201c\u0458\u0448\u00bb\u0430\u2248\u043c--\u0431\u045b\u0192\u043c\u045b\u00ab\u0442 \u043b\u045b\u00bb\u043c-\u0430\u00ab\u0448\u0458\u043e\u0458\u0440\u0435\u2026\u044a\u2206\u0439\u0434\u00bb, \u0449\u2014\u0192\u0437\u2248\u044a \u043e\u0192\u0431\u0458\u0446\u00bb\u0448\u00bb\u0439\u0435; \u0435\u00ab\u0439\u045b\u2206\u0448\u2206\u0431, \u0431\u045b\u0458\u0431\u00ab\u044a-\u0439\u0458\u0434\u0435\u045b\u0433\u00bb\u0434, \u044a\u045b\u00ab\u0430\u00ac\u0440\u0192\u0439\u045b\u00bb\u0434, \u0435\u00ab\u0430\u00ac\u0440\u0192\u0439\u045b\u00bb\u0434.\u2020 {\u0441}",
+                    "english": "The Lord is become as an enemy, He hath swallowed up Israel; He hath swallowed up all her palaces, He hath destroyed his strongholds; and He hath multiplied in the daughter of Judah mourning and moaning. {S}",
+                    "verseNumber": 5
+                },
+                "6": {
+                    "hebrew": "\u2020\u2020\u0435\u00ab\u0439\u045b\u00ab\u0437\u0458\u043e\u2026\u0441 \u043b\u045b\u00ab\u0432\u045b\u00ab\u043f \u0449\u201c\u040b\u043b\u045b\u0435\u2026, \u0449\u2014\u0192\u0437\u2248\u044a \u043e\u2026\u0442\u00ac\u0433\u0435\u2026; \u0449\u2014\u0192\u043b\u045b\u00ab\u0437 \u0439\u0458\u0434\u0435\u00bb\u0434 \u0431\u045b\u0458\u0446\u0192\u0439\u045b\u0435\u2026\u043f \u043e\u0435\u2026\u0442\u2248\u0433 \u0435\u0458\u0449\u2014\u00ab\u0431\u045b\u00bb\u044a, \u0435\u00ab\u0439\u045b\u0192\u0440\u0458\u0430\u00ab\u0445 \u0431\u045b\u0458\u0436\u00ab\u0442\u00ab\u043d-\u0430\u00ab\u0444\u045b\u0435\u2026 \u043e\u2206\u043c\u2206\u043a\u0458 \u0435\u0458\u043b\u2026\u0434\u2248\u043f.\u2020 {\u0441}",
+                    "english": "And He hath stripped His tabernacle, as if it were a garden, He hath destroyed His place of assembly; the LORD hath caused to be forgotten in Zion appointed season and sabbath, and hath rejected in the indignation of His anger the king and the priest. {S}",
+                    "verseNumber": 6
+                },
+                "7": {
+                    "hebrew": "\u2020\u2020\u0436\u00bb\u0440\u00ab\u0437 \u0430\u00ac\u0433\u2026\u0440\u00bb\u0439 \u043e\u0192\u0436\u0458\u0431\u045b\u0458\u0437\u0435\u2026, \u0440\u0192\u0430\u2248\u0448 \u043e\u0192\u0447\u0458\u0433\u045b\u00bb\u0449\u2014\u0435\u2026--\u0434\u0192\u0441\u0458\u0432\u045b\u0192\u0439\u0448 \u0431\u045b\u0458\u0439\u00ab\u0433-\u0430\u0435\u2026\u0439\u2248\u0431, \u0437\u0435\u2026\u043e\u2026\u044a \u0430\u00ab\u0448\u0458\u043e\u0458\u0440\u0435\u2026\u044a\u2206\u0439\u0434\u00bb; \u0447\u0435\u2026\u043c \u0440\u00bb\u044a\u0458\u0440\u0435\u045b \u0431\u045b\u0458\u0431\u2248\u0439\u044a-\u0439\u0458\u0434\u0435\u00bb\u0434, \u043b\u045b\u0458\u0439\u0435\u2026\u043d \u043e\u0435\u2026\u0442\u2248\u0433.\u2020 {\u0441}",
+                    "english": "The Lord hath cast off His altar, He hath abhorred His sanctuary, He hath given up into the hand of the enemy the walls of her palaces; they have made a noise in the house of the LORD, as in the day of a solemn assembly. {S}",
+                    "verseNumber": 7
+                },
+                "8": {
+                    "hebrew": "\u2020\u2020\u0437\u00bb\u0449\u2014\u00ab\u0431 \u0439\u0458\u0434\u0435\u00bb\u0434 \u043c\u0458\u0434\u00ab\u0449\u2014\u0458\u0437\u0192\u0439\u044a, \u0437\u0435\u2026\u043e\u00ab\u044a \u0431\u045b\u00ab\u044a-\u0446\u0192\u0439\u045b\u0435\u2026\u043f--\u0440\u00bb\u0438\u00bb\u0434 \u0447\u00bb\u0435, \u043c\u2026\u0430-\u0434\u2248\u0449\u2014\u0192\u0439\u0431 \u0439\u00bb\u0433\u0435\u2026 \u043e\u0192\u0431\u045b\u00ab\u043c\u045b\u2248\u0442\u00ab; \u0435\u00ab\u0439\u045b\u00ab\u0430\u00ac\u0431\u2206\u043c-\u0437\u2248\u043c \u0435\u0458\u0437\u0435\u2026\u043e\u00bb\u0434, \u0439\u00ab\u0437\u0458\u0433\u045b\u00bb\u0435 \u0430\u040b\u043e\u0458\u043c\u00bb\u043c\u0435\u045b.\u2020 {\u0441}",
+                    "english": "The LORD hath purposed to destroy the wall of the daughter of Zion; He hath stretched out the line, He hath not withdrawn His hand from destroying; but He hath made the rampart and wall to mourn, they languish together. {S}",
+                    "verseNumber": 8
+                },
+                "9": {
+                    "hebrew": "\u2020\u2020\u0438\u00bb\u0431\u0458\u0442\u0435\u045b \u0431\u00bb\u0430\u00bb\u0448\u2206\u0445 \u0449\u2014\u0458\u0442\u00bb\u0448\u2206\u0439\u0434\u00bb, \u0430\u0192\u0431\u045b\u00ab\u0433 \u0435\u0458\u0449\u2014\u0192\u0431\u045b\u00ab\u0448 \u0431\u045b\u0458\u0448\u0192\u0439\u0437\u2206\u0439\u0434\u00bb; \u043e\u00ab\u043c\u0458\u043b\u045b\u00bb\u0434\u045b \u0435\u0458\u0449\u201c\u00bb\u0448\u2206\u0439\u0434\u00bb \u0431\u00ab\u0432\u045b\u0435\u2026\u0439\u0192\u043d, \u0430\u2248\u0439\u043f \u044a\u045b\u0435\u2026\u0448\u00bb\u0434--\u0432\u045b\u00ab\u043d-\u0440\u0458\u0431\u0192\u0439\u0430\u2206\u0439\u0434\u00bb, \u043c\u2026\u0430-\u043e\u00bb\u0446\u0458\u0430\u0435\u045b \u0437\u00bb\u0436\u0435\u2026\u043f \u043e\u2248\u0439\u0458\u0434\u0435\u00bb\u0434.\u2020 {\u0441}",
+                    "english": "Her gates are sunk into the ground; He hath destroyed and broken her bars; her king and her princes are among the nations, instruction is no more; yea, her prophets find no vision from the LORD. {S}",
+                    "verseNumber": 9
+                },
+                "10": {
+                    "hebrew": "\u2020\u2020\u0439\u2248\u0449\u2014\u0458\u0431\u0435\u045b \u043c\u00bb\u0430\u00bb\u0448\u2206\u0445 \u0439\u0192\u0433\u045b\u0458\u043e\u0435\u045b, \u0436\u0192\u0447\u0458\u0440\u2248\u0439 \u0431\u00ab\u044a-\u0446\u0192\u0439\u045b\u0435\u2026\u043f--\u0434\u2206\u0442\u0405\u043c\u0435\u045b \u0442\u00bb\u0444\u00bb\u0448 \u0442\u00ab\u043c-\u0448\u2026\u0430\u0449\u2014\u00bb\u043d, \u0437\u00bb\u0432\u0458\u0448\u0435\u045b \u0449\u201c\u00ab\u0447\u045b\u0192\u0439\u043d; \u0434\u0435\u2026\u0448\u0192\u0439\u0433\u0435\u045b \u043c\u00bb\u0430\u00bb\u0448\u2206\u0445 \u0448\u2026\u0430\u0449\u2014\u00bb\u043f, \u0431\u045b\u0458\u044a\u0435\u045b\u043c\u2026\u044a \u0439\u0458\u0448\u0435\u045b\u0449\u2014\u00bb\u043c\u00bb\u0192\u043d.\u2020 {\u0441}",
+                    "english": "They sit upon the ground, and keep silence, the elders of the daughter of Zion; they have cast up dust upon their heads, they have girded themselves with sackcloth; the virgins of Jerusalem hang down their heads to the ground. {S}",
+                    "verseNumber": 10
+                },
+                "11": {
+                    "hebrew": "\u2020\u2020\u043b\u045b\u00bb\u043c\u0435\u045b \u0431\u00ab\u0433\u045b\u0458\u043e\u00bb\u0442\u0435\u2026\u044a \u0442\u2248\u0439\u0440\u00ab\u0439, \u0437\u221a\u043e\u00ab\u0448\u0458\u043e\u0458\u0448\u0435\u045b \u043e\u2248\u0442\u00ab\u0439--\u0440\u0192\u0449\u2014\u0458\u0444\u045b\u00ab\u043a\u0458 \u043c\u00bb\u0430\u00bb\u0448\u2206\u0445 \u043b\u045b\u0458\u0431\u2248\u0433\u0192\u0439, \u0442\u00ab\u043c-\u0449\u2014\u2206\u0431\u2206\u0448 \u0431\u045b\u00ab\u044a-\u0442\u00ab\u043e\u045b\u0192\u0439:\u2020 \u0431\u045b\u2248\u0442\u00bb\u0438\u2248\u0443 \u0442\u0435\u2026\u043c\u2248\u043c \u0435\u0458\u0439\u0435\u2026\u0440\u2248\u0447, \u0431\u045b\u0192\u0448\u0458\u0437\u2026\u0431\u0435\u2026\u044a \u0447\u0192\u0448\u0458\u0439\u00bb\u0434.\u2020 {\u0441}",
+                    "english": "Mine eyes do fail with tears, mine inwards burn, my liver is poured upon the earth, for the breach of the daughter of my people; because the young children and the sucklings swoon in the broad places of the city. {S}",
+                    "verseNumber": 11
+                },
+                "12": {
+                    "hebrew": "\u2020\u2020\u043c\u0458\u0430\u0192\u043e\u045b\u2026\u044a\u00bb\u043d, \u0439\u2026\u0430\u043e\u0458\u0448\u0435\u045b, \u0430\u00ab\u0439\u045b\u2248\u0434, \u0433\u045b\u00bb\u0432\u00bb\u043f \u0435\u00bb\u0439\u00bb\u0439\u0192\u043f:\u2020 \u0431\u045b\u0458\u0434\u0192\u044a\u0458\u0442\u00ab\u0438\u045b\u0458\u0444\u00bb\u043d \u043b\u045b\u2206\u0437\u00bb\u043c\u00bb\u043c, \u0431\u045b\u0192\u0448\u0458\u0437\u2026\u0431\u0435\u2026\u044a \u0442\u0192\u0439\u0448--\u0431\u045b\u0458\u0434\u0192\u0449\u2014\u0458\u044a\u045b\u00ab\u0444\u045b\u2248\u043a\u0458 \u0440\u00ab\u0444\u0458\u0449\u2014\u00bb\u043d, \u0430\u2206\u043c-\u0437\u2248\u0439\u0447 \u0430\u0192\u043e\u045b\u2026\u044a\u00bb\u043d.\u2020 {\u0441}",
+                    "english": "They say to their mothers: 'Where is corn and wine?' when they swoon as the wounded in the broad places of the city, when their soul is poured out into their mothers' bosom. {S}",
+                    "verseNumber": 12
+                },
+                "13": {
+                    "hebrew": "\u2020\u2020\u043e\u00bb\u0434-\u0430\u00ac\u0442\u0192\u0439\u0433\u2248\u043a\u0458 \u043e\u00bb\u0434 \u0430\u00ac\u0433\u00ab\u043e\u045b\u2206\u0434-\u043c\u045b\u00bb\u043a\u0458, \u0434\u00ab\u0431\u045b\u00ab\u044a \u0439\u0458\u0448\u0435\u045b\u0449\u2014\u00bb\u043c\u00ab\u0192\u043d--\u043e\u00bb\u0434 \u0430\u00ab\u0449\u2014\u0458\u0435\u2206\u0434-\u043c\u045b\u00bb\u043a\u0458 \u0435\u00ab\u0430\u00ac\u0440\u00ab\u0437\u00ac\u043e\u2248\u043a\u0458, \u0431\u045b\u0458\u044a\u0435\u045b\u043c\u00ab\u044a \u0431\u045b\u00ab\u044a-\u0446\u0192\u0439\u045b\u0435\u2026\u043f:\u2020 \u043b\u045b\u0192\u0439-\u0432\u00bb\u0433\u0435\u2026\u043c \u043b\u045b\u00ab\u0439\u045b\u00bb\u043d \u0449\u2014\u0192\u0431\u0458\u0448\u2248\u043a\u0458, \u043e\u0192\u0439 \u0439\u0192\u0448\u0458\u0444\u045b\u00bb\u0430-\u043c\u00bb\u043a\u0458.\u2020 {\u0441}",
+                    "english": "What shall I take to witness for thee? What shall I liken to thee, O daughter of Jerusalem? What shall I equal to thee, that I may comfort thee, O virgin daughter of Zion? For thy breach is great like the sea; who can heal thee? {S}",
+                    "verseNumber": 13
+                },
+                "14": {
+                    "hebrew": "\u2020\u2020\u0440\u0458\u0431\u0192\u0439\u0430\u00ab\u0439\u0192\u043a\u0458, \u0437\u00bb\u0436\u0435\u045b \u043c\u00bb\u043a\u0458 \u0449\u2014\u00bb\u0435\u0458\u0430 \u0435\u0458\u044a\u00bb\u0444\u2248\u043c, \u0435\u0458\u043c\u2026\u0430-\u0432\u0192\u043c\u045b\u0435\u045b \u0442\u00ab\u043c-\u0442\u00ac\u0435\u00a0\u0440\u2248\u043a\u0458, \u043c\u0458\u0434\u00bb\u0449\u2014\u0192\u0439\u0431 \u0449\u0431\u0439\u044a\u043a (\u0449\u2014\u0458\u0431\u0435\u045b\u044a\u2248\u043a\u0458); \u0435\u00ab\u0439\u045b\u2206\u0437\u0405\u0436\u0435\u045b \u043c\u00bb\u043a\u0458, \u043e\u00ab\u0449\u201c\u0458\u0430\u0435\u2026\u044a \u0449\u2014\u00bb\u0435\u0458\u0430 \u0435\u045b\u043e\u00ab\u0433\u045b\u0435\u045b\u0437\u0192\u0439\u043d.\u2020 {\u0441}",
+                    "english": "Thy prophets have seen visions for thee of vanity and delusion; and they have not uncovered thine iniquity, to bring back thy captivity; but have prophesied for thee burdens of vanity and seduction. {S}",
+                    "verseNumber": 14
+                },
+                "15": {
+                    "hebrew": "\u2020\u2020\u0441\u00bb\u0444\u0458\u0447\u0435\u045b \u0442\u00bb\u043c\u00ab\u0439\u0192\u043a\u0458 \u043b\u045b\u00ab\u0444\u045b\u00ab\u0439\u0192\u043d, \u043b\u045b\u00bb\u043c-\u0442\u2026\u0431\u0458\u0448\u2248\u0439 \u0433\u2206\u0448\u2206\u043a\u0458--\u0449\u2014\u00bb\u0448\u0458\u0447\u0435\u045b \u0435\u00ab\u0439\u045b\u00bb\u0440\u0192\u0442\u0435\u045b \u0448\u2026\u0430\u0449\u2014\u00bb\u043d, \u0442\u00ab\u043c-\u0431\u045b\u00ab\u044a \u0439\u0458\u0448\u0435\u045b\u0449\u2014\u00bb\u043c\u00bb\u0192\u043d:\u2020 \u0434\u00ac\u0436\u2026\u0430\u044a \u0434\u00bb\u0442\u0192\u0439\u0448, \u0449\u2014\u2206\u0439\u045b\u2026\u0430\u043e\u0458\u0448\u0435\u045b \u043b\u045b\u0458\u043c\u0192\u0439\u043c\u00ab\u044a \u0439\u2026\u0444\u0192\u0439--\u043e\u00bb\u0449\u201c\u0435\u2026\u0449\u201c, \u043c\u0458\u043b\u00bb\u043c-\u0434\u00bb\u0430\u00bb\u0448\u2206\u0445.\u2020 {\u0441}",
+                    "english": "All that pass by clap their hands at thee; they hiss and wag their head at the daughter of Jerusalem: 'Is this the city that men called the perfection of beauty, the joy of the whole earth?' {S}",
+                    "verseNumber": 15
+                },
+                "16": {
+                    "hebrew": "\u2020\u2020\u0444\u045b\u00bb\u0446\u0435\u045b \u0442\u00bb\u043c\u00ab\u0439\u0192\u043a\u0458 \u0444\u045b\u0192\u0439\u0434\u2206\u043d, \u043b\u045b\u00bb\u043c-\u0430\u2026\u0439\u0458\u0431\u00ab\u0439\u0192\u043a\u0458--\u0449\u2014\u00bb\u0448\u0458\u0447\u0435\u045b \u0435\u00ab\u0439\u045b\u00ab\u0437\u00ab\u0448\u0458\u0447\u0435\u045b-\u0449\u2014\u2248\u043f, \u0430\u00bb\u043e\u0458\u0448\u0435\u045b \u0431\u045b\u0192\u043c\u045b\u00bb\u0442\u0458\u0440\u0435\u045b; \u0430\u00ab\u043a\u0458 \u0436\u2206\u0434 \u0434\u00ab\u0439\u045b\u0435\u2026\u043d \u0449\u2014\u2206\u0447\u045b\u0192\u0435\u045b\u0192\u0439\u0440\u040b\u0434\u0435\u045b, \u043e\u00bb\u0446\u00bb\u0430\u0440\u0435\u045b \u0448\u00bb\u0430\u0192\u0439\u0440\u0435\u045b.\u2020 {\u0441}",
+                    "english": "All thine enemies have opened their mouth wide against thee; they hiss and gnash the teeth; they say: 'We have swallowed her up; certainly this is the day that we looked for; we have found, we have seen it.' {S}",
+                    "verseNumber": 16
+                },
+                "17": {
+                    "hebrew": "\u2020\u2020\u0442\u00bb\u0449\u201c\u00bb\u0434 \u0439\u0458\u0434\u0435\u00bb\u0434 \u0430\u00ac\u0449\u2014\u2206\u0448 \u0436\u00bb\u043e\u00bb\u043d, \u0431\u045b\u0192\u0446\u045b\u00ab\u0442 \u0430\u2206\u043e\u0458\u0448\u00bb\u044a\u0435\u2026 \u0430\u00ac\u0449\u2014\u2206\u0448 \u0446\u0192\u0435\u045b\u00bb\u0434 \u043e\u0192\u0439\u043e\u2248\u0439-\u0447\u2206\u0433\u2206\u043d--\u0434\u00bb\u0448\u00ab\u0441, \u0435\u0458\u043c\u2026\u0430 \u0437\u00bb\u043e\u00bb\u043c; \u0435\u00ab\u0439\u0458\u0449\u201c\u00ab\u043e\u045b\u00ab\u0437 \u0442\u00bb\u043c\u00ab\u0439\u0192\u043a\u0458 \u0430\u0435\u2026\u0439\u2248\u0431, \u0434\u2248\u0448\u0192\u0439\u043d \u0447\u2206\u0448\u2206\u043f \u0446\u00bb\u0448\u00bb\u0439\u0192\u043a\u0458.\u2020 {\u0441}",
+                    "english": "The LORD hath done that which He devised; He hath performed His word that He commanded in the days of old; He hath thrown down unsparingly; and He hath caused the enemy to rejoice over thee, He hath exalted the horn of thine adversaries. {S}",
+                    "verseNumber": 17
+                },
+                "18": {
+                    "hebrew": "\u2020\u2020\u0446\u00bb\u0442\u00ab\u0447 \u043c\u0192\u0431\u045b\u00bb\u043d, \u0430\u2206\u043c-\u0430\u00ac\u0433\u2026\u0440\u00bb\u0439; \u0437\u0435\u2026\u043e\u00ab\u044a \u0431\u045b\u00ab\u044a-\u0446\u0192\u0439\u045b\u0435\u2026\u043f \u0434\u0435\u2026\u0448\u0192\u0439\u0433\u0192\u0439 \u043b\u00ab\u0440\u045b\u00ab\u0437\u00ab\u043c \u0433\u045b\u0192\u043e\u0458\u0442\u00bb\u0434, \u0439\u0435\u2026\u043e\u00bb\u043d \u0435\u00bb\u043c\u00ab\u0439\u0458\u043c\u00bb\u0434--\u0430\u00ab\u043c-\u044a\u045b\u0192\u044a\u045b\u0458\u0440\u0192\u0439 \u0444\u0435\u045b\u0432\u00ab\u044a \u043c\u00bb\u043a\u0458, \u0430\u00ab\u043c-\u044a\u045b\u0192\u0433\u045b\u2026\u043d \u0431\u045b\u00ab\u044a-\u0442\u2248\u0439\u0440\u2248\u043a\u0458.\u2020 {\u0441}",
+                    "english": "Their heart cried unto the Lord: 'O wall of the daughter of Zion, let tears run down like a river day and night; give thyself no respite; let not the apple of thine eye cease. {S}",
+                    "verseNumber": 18
+                },
+                "19": {
+                    "hebrew": "\u2020\u2020\u0447\u0435\u045b\u043e\u0192\u0439 \u0448\u2026\u0440\u045b\u0192\u0439 \u0431\u043c\u0439\u043c (\u0431\u00ab\u043c\u045b\u00ab\u0439\u0458\u043c\u00bb\u0434), \u043c\u0458\u0448\u2026\u0430\u0449\u2014 \u0430\u00ab\u0449\u2014\u0458\u043e\u040b\u0448\u0435\u2026\u044a--\u0449\u2014\u0192\u0444\u0458\u043b\u0192\u0439 \u043b\u00ab\u043e\u045b\u00ab\u0439\u0192\u043d \u043c\u0192\u0431\u045b\u2248\u043a\u0458, \u0440\u2026\u043b\u00ab\u0437 \u0444\u045b\u0458\u0440\u2248\u0439 \u0430\u00ac\u0433\u2026\u0440\u00bb\u0439; \u0449\u201c\u0458\u0430\u0192\u0439 \u0430\u2248\u043c\u00bb\u0439\u0435 \u043b\u045b\u00ab\u0444\u045b\u00ab\u0439\u0192\u043a\u0458, \u0442\u00ab\u043c-\u0440\u2206\u0444\u2206\u0449\u2014 \u0442\u0435\u2026\u043c\u00bb\u043c\u00ab\u0439\u0192\u043a\u0458--\u0434\u00bb\u0442\u00ac\u0438\u0435\u045b\u0444\u0192\u0439\u043d \u0431\u045b\u0458\u0448\u00bb\u0442\u00bb\u0431, \u0431\u045b\u0458\u0448\u2026\u0430\u0449\u2014 \u043b\u045b\u00bb\u043c-\u0437\u0435\u045b\u0446\u0435\u2026\u044a.\u2020 {\u0441}",
+                    "english": "Arise, cry out in the night, at the beginning of the watches; pour out thy heart like water before the face of the Lord; lift up thy hands toward Him for the life of thy young children, that faint for hunger at the head of every street.' {S}",
+                    "verseNumber": 19
+                },
+                "20": {
+                    "hebrew": "\u2020\u2020\u0448\u0458\u0430\u2248\u0434 \u0439\u0458\u0434\u0435\u00bb\u0434 \u0435\u0458\u0434\u00ab\u0431\u045b\u0192\u0439\u0438\u00bb\u0434, \u043c\u0458\u043e\u0192\u0439 \u0442\u0435\u2026\u043c\u00ab\u043c\u0458\u044a\u045b\u00bb \u043b\u045b\u2026\u0434:\u2020 \u0430\u0192\u043d-\u044a\u045b\u2026\u0430\u043b\u00ab\u043c\u0458\u0440\u00bb\u0434 \u0440\u00bb\u0449\u2014\u0192\u0439\u043d \u0444\u045b\u0192\u0448\u0458\u0439\u00bb\u043d \u0442\u2026\u043c\u0458\u043c\u2248\u0439 \u0438\u0192\u0444\u045b\u040b\u0437\u0192\u0439\u043d, \u0430\u0192\u043d-\u0439\u2248\u0434\u00bb\u0448\u2248\u0432 \u0431\u045b\u0458\u043e\u0192\u0447\u0458\u0433\u045b\u00ab\u0449\u2014 \u0430\u00ac\u0433\u2026\u0440\u00bb\u0439 \u043b\u045b\u2026\u0434\u2248\u043f \u0435\u0458\u0440\u00bb\u0431\u0192\u0439\u0430.\u2020 {\u0441}",
+                    "english": "'See, O LORD, and consider, to whom Thou hast done thus! Shall the women eat their fruit, the children that are dandled in the hands? Shall the priest and the prophet be slain in the sanctuary of the Lord? {S}",
+                    "verseNumber": 20
+                },
+                "21": {
+                    "hebrew": "\u2020\u2020\u0449\u2014\u00bb\u043b\u0458\u0431\u0435\u045b \u043c\u00bb\u0430\u00bb\u0448\u2206\u0445 \u0437\u0435\u045b\u0446\u0435\u2026\u044a \u0440\u00ab\u0442\u00ab\u0448 \u0435\u0458\u0436\u00bb\u0447\u2248\u043f, \u0431\u045b\u0458\u044a\u0435\u045b\u043c\u2026\u044a\u00ab\u0439 \u0435\u045b\u0431\u00ab\u0437\u0435\u045b\u0448\u00ab\u0439 \u0440\u00bb\u0444\u0458\u043c\u0435\u045b \u0431\u2206\u0437\u00bb\u0448\u2206\u0431; \u0434\u00bb\u0448\u00ab\u0432\u0458\u044a\u045b\u00bb \u0431\u045b\u0458\u0439\u0435\u2026\u043d \u0430\u00ab\u0444\u045b\u2206\u043a\u00bb, \u0438\u00bb\u0431\u00ab\u0437\u0458\u044a\u045b\u00bb \u043c\u2026\u0430 \u0437\u00bb\u043e\u00bb\u043c\u0458\u044a\u045b\u00bb.\u2020 {\u0441}",
+                    "english": "The youth and the old man lie on the ground in the streets; my virgins and my young men are fallen by the sword; Thou hast slain them in the day of Thine anger; Thou hast slaughtered unsparingly. {S}",
+                    "verseNumber": 21
+                },
+                "22": {
+                    "hebrew": "\u2020\u2020\u044a\u045b\u0192\u0447\u0458\u0448\u00bb\u0430 \u043b\u0458\u0439\u0435\u2026\u043d \u043e\u0435\u2026\u0442\u2248\u0433 \u043e\u0458\u0432\u0435\u045b\u0448\u00ab\u0439 \u043e\u0192\u0441\u045b\u00bb\u0431\u0192\u0439\u0431, \u0435\u0458\u043c\u2026\u0430 \u0434\u00bb\u0439\u00bb\u0434 \u0431\u045b\u0458\u0439\u0435\u2026\u043d \u0430\u00ab\u0443-\u0439\u0458\u0434\u0435\u00bb\u0434 \u0444\u045b\u00bb\u043c\u0192\u0439\u0438 \u0435\u0458\u0449\u201c\u00bb\u0448\u0192\u0439\u0433:\u2020 \u0430\u00ac\u0449\u2014\u2206\u0448-\u0438\u0192\u0444\u045b\u00ab\u0437\u0458\u044a\u045b\u0192\u0439 \u0435\u0458\u0448\u0192\u0431\u045b\u0192\u0439\u044a\u0192\u0439, \u0430\u2026\u0439\u0458\u0431\u0192\u0439 \u043b\u0192\u043c\u045b\u00bb\u043d.\u2020 {\u0444}",
+                    "english": "Thou hast called, as in the day of a solemn assembly, my terrors on every side, and there was none in the day of the LORD'S anger that escaped or remained; those that I have dandled and brought up hath mine enemy consumed.' {P}",
+                    "verseNumber": 22
+                }
+            },
+            "link": "https://www.mechon-mamre.org/p/pt/pt3202.htm"
+        },
+        "3": {
+            "chapterNumber": 3,
+            "canonicalTitle": "Lamentations Chapter 3",
+            "verses": {
+                "1": {
+                    "hebrew": "\u05d0\u05b2\u05e0\u05b4\u05d9 \u05d4\u05b7\u05d2\u05bc\u05b6\u05d1\u05b6\u05e8 \u05e8\u05b8\u05d0\u05b8\u05d4 \u05e2\u05b3\u05e0\u05b4\u05d9, \u05d1\u05bc\u05b0\u05e9\u05c1\u05b5\u05d1\u05b6\u05d8 \u05e2\u05b6\u05d1\u05b0\u05e8\u05b8\u05ea\u05d5\u05b9.",
+                    "english": "I am the man that hath seen affliction by the rod of His wrath.",
+                    "verseNumber": 1
+                },
+                "2": {
+                    "hebrew": "\u05d0\u05d5\u05b9\u05ea\u05b4\u05d9 \u05e0\u05b8\u05d4\u05b7\u05d2 \u05d5\u05b7\u05d9\u05bc\u05b9\u05dc\u05b7\u05da\u05b0, \u05d7\u05b9\u05e9\u05c1\u05b6\u05da\u05b0 \u05d5\u05b0\u05dc\u05b9\u05d0-\u05d0\u05d5\u05b9\u05e8.",
+                    "english": "He hath led me and caused me to walk in darkness and not in light.",
+                    "verseNumber": 2
+                },
+                "3": {
+                    "hebrew": "\u05d0\u05b7\u05da\u05b0 \u05d1\u05bc\u05b4\u05d9 \u05d9\u05b8\u05e9\u05c1\u05bb\u05d1 \u05d9\u05b7\u05d4\u05b2\u05e4\u05b9\u05da\u05b0 \u05d9\u05b8\u05d3\u05d5\u05b9, \u05db\u05bc\u05b8\u05dc-\u05d4\u05b7\u05d9\u05bc\u05d5\u05b9\u05dd.\u00a0 {\u05e1}",
+                    "english": "Surely against me He turneth His hand again and again all the day. {S}",
+                    "verseNumber": 3
+                },
+                "4": {
+                    "hebrew": "\u05d1\u05bc\u05b4\u05dc\u05bc\u05b8\u05d4 \u05d1\u05b0\u05e9\u05c2\u05b8\u05e8\u05b4\u05d9 \u05d5\u05b0\u05e2\u05d5\u05b9\u05e8\u05b4\u05d9, \u05e9\u05c1\u05b4\u05d1\u05bc\u05b7\u05e8 \u05e2\u05b7\u05e6\u05b0\u05de\u05d5\u05b9\u05ea\u05b8\u05d9.",
+                    "english": "My flesh and my skin hath He worn out; He hath broken my bones.",
+                    "verseNumber": 4
+                },
+                "5": {
+                    "hebrew": "\u05d1\u05bc\u05b8\u05e0\u05b8\u05d4 \u05e2\u05b8\u05dc\u05b7\u05d9 \u05d5\u05b7\u05d9\u05bc\u05b7\u05e7\u05bc\u05b7\u05e3, \u05e8\u05b9\u05d0\u05e9\u05c1 \u05d5\u05bc\u05ea\u05b0\u05dc\u05b8\u05d0\u05b8\u05d4.",
+                    "english": "He hath builded against me, and compassed me with gall and travail.",
+                    "verseNumber": 5
+                },
+                "6": {
+                    "hebrew": "\u05d1\u05bc\u05b0\u05de\u05b7\u05d7\u05b2\u05e9\u05c1\u05b7\u05db\u05bc\u05b4\u05d9\u05dd \u05d4\u05d5\u05b9\u05e9\u05c1\u05b4\u05d9\u05d1\u05b7\u05e0\u05b4\u05d9, \u05db\u05bc\u05b0\u05de\u05b5\u05ea\u05b5\u05d9 \u05e2\u05d5\u05b9\u05dc\u05b8\u05dd.\u00a0 {\u05e1}",
+                    "english": "He hath made me to dwell in dark places, as those that have been long dead. {S}",
+                    "verseNumber": 6
+                },
+                "7": {
+                    "hebrew": "\u05d2\u05bc\u05b8\u05d3\u05b7\u05e8 \u05d1\u05bc\u05b7\u05e2\u05b2\u05d3\u05b4\u05d9 \u05d5\u05b0\u05dc\u05b9\u05d0 \u05d0\u05b5\u05e6\u05b5\u05d0, \u05d4\u05b4\u05db\u05b0\u05d1\u05bc\u05b4\u05d9\u05d3 \u05e0\u05b0\u05d7\u05b8\u05e9\u05c1\u05b0\u05ea\u05bc\u05b4\u05d9.",
+                    "english": "He hath hedged me about, that I cannot go forth; He hath made my chain heavy.",
+                    "verseNumber": 7
+                },
+                "8": {
+                    "hebrew": "\u05d2\u05bc\u05b7\u05dd \u05db\u05bc\u05b4\u05d9 \u05d0\u05b6\u05d6\u05b0\u05e2\u05b7\u05e7 \u05d5\u05b7\u05d0\u05b2\u05e9\u05c1\u05b7\u05d5\u05bc\u05b5\u05e2\u05b7, \u05e9\u05c2\u05b8\u05ea\u05b7\u05dd \u05ea\u05bc\u05b0\u05e4\u05b4\u05dc\u05bc\u05b8\u05ea\u05b4\u05d9.",
+                    "english": "Yea, when I cry and call for help, He shutteth out my prayer.",
+                    "verseNumber": 8
+                },
+                "9": {
+                    "hebrew": "\u05d2\u05bc\u05b8\u05d3\u05b7\u05e8 \u05d3\u05bc\u05b0\u05e8\u05b8\u05db\u05b7\u05d9 \u05d1\u05bc\u05b0\u05d2\u05b8\u05d6\u05b4\u05d9\u05ea, \u05e0\u05b0\u05ea\u05b4\u05d9\u05d1\u05b9\u05ea\u05b7\u05d9 \u05e2\u05b4\u05d5\u05bc\u05b8\u05d4.\u00a0 {\u05e1}",
+                    "english": "He hath enclosed my ways with hewn stone, He hath made my paths crooked. {S}",
+                    "verseNumber": 9
+                },
+                "10": {
+                    "hebrew": "\u05d3\u05bc\u05b9\u05d1 \u05d0\u05b9\u05e8\u05b5\u05d1 \u05d4\u05d5\u05bc\u05d0 \u05dc\u05b4\u05d9, \u05d0\u05e8\u05d9\u05d4 (\u05d0\u05b2\u05e8\u05b4\u05d9) \u05d1\u05bc\u05b0\u05de\u05b4\u05e1\u05b0\u05ea\u05bc\u05b8\u05e8\u05b4\u05d9\u05dd.",
+                    "english": "He is unto me as a bear lying in wait, as a lion in secret places.",
+                    "verseNumber": 10
+                },
+                "11": {
+                    "hebrew": "\u05d3\u05bc\u05b0\u05e8\u05b8\u05db\u05b7\u05d9 \u05e1\u05d5\u05b9\u05e8\u05b5\u05e8 \u05d5\u05b7\u05d9\u05b0\u05e4\u05b7\u05e9\u05bc\u05c1\u05b0\u05d7\u05b5\u05e0\u05b4\u05d9, \u05e9\u05c2\u05b8\u05de\u05b7\u05e0\u05b4\u05d9 \u05e9\u05c1\u05b9\u05de\u05b5\u05dd.",
+                    "english": "He hath turned aside my ways, and pulled me in pieces; He hath made me desolate.",
+                    "verseNumber": 11
+                },
+                "12": {
+                    "hebrew": "\u05d3\u05bc\u05b8\u05e8\u05b7\u05da\u05b0 \u05e7\u05b7\u05e9\u05c1\u05b0\u05ea\u05bc\u05d5\u05b9 \u05d5\u05b7\u05d9\u05bc\u05b7\u05e6\u05bc\u05b4\u05d9\u05d1\u05b5\u05e0\u05b4\u05d9, \u05db\u05bc\u05b7\u05de\u05bc\u05b7\u05d8\u05bc\u05b8\u05e8\u05b8\u05d0 \u05dc\u05b7\u05d7\u05b5\u05e5.\u00a0 {\u05e1}",
+                    "english": "He hath bent His bow, and set me as a mark for the arrow. {S}",
+                    "verseNumber": 12
+                },
+                "13": {
+                    "hebrew": "\u05d4\u05b5\u05d1\u05b4\u05d9\u05d0, \u05d1\u05bc\u05b0\u05db\u05b4\u05dc\u05b0\u05d9\u05b9\u05ea\u05b8\u05d9, \u05d1\u05bc\u05b0\u05e0\u05b5\u05d9, \u05d0\u05b7\u05e9\u05c1\u05b0\u05e4\u05bc\u05b8\u05ea\u05d5\u05b9.",
+                    "english": "He hath caused the arrows of His quiver to enter into my reins.",
+                    "verseNumber": 13
+                },
+                "14": {
+                    "hebrew": "\u05d4\u05b8\u05d9\u05b4\u05d9\u05ea\u05b4\u05d9 \u05e9\u05bc\u05c2\u05b0\u05d7\u05b9\u05e7 \u05dc\u05b0\u05db\u05b8\u05dc-\u05e2\u05b7\u05de\u05bc\u05b4\u05d9, \u05e0\u05b0\u05d2\u05b4\u05d9\u05e0\u05b8\u05ea\u05b8\u05dd \u05db\u05bc\u05b8\u05dc-\u05d4\u05b7\u05d9\u05bc\u05d5\u05b9\u05dd.",
+                    "english": "I am become a derision to all my people, and their song all the day.",
+                    "verseNumber": 14
+                },
+                "15": {
+                    "hebrew": "\u05d4\u05b4\u05e9\u05c2\u05b0\u05d1\u05bc\u05b4\u05d9\u05e2\u05b7\u05e0\u05b4\u05d9 \u05d1\u05b7\u05de\u05bc\u05b0\u05e8\u05d5\u05b9\u05e8\u05b4\u05d9\u05dd, \u05d4\u05b4\u05e8\u05b0\u05d5\u05b7\u05e0\u05b4\u05d9 \u05dc\u05b7\u05e2\u05b2\u05e0\u05b8\u05d4.\u00a0 {\u05e1}",
+                    "english": "He hath filled me with bitterness, He hath sated me with wormwood. {S}",
+                    "verseNumber": 15
+                },
+                "16": {
+                    "hebrew": "\u05d5\u05b7\u05d9\u05bc\u05b7\u05d2\u05b0\u05e8\u05b5\u05e1 \u05d1\u05bc\u05b6\u05d7\u05b8\u05e6\u05b8\u05e5 \u05e9\u05c1\u05b4\u05e0\u05bc\u05b8\u05d9, \u05d4\u05b4\u05db\u05b0\u05e4\u05bc\u05b4\u05d9\u05e9\u05c1\u05b7\u05e0\u05b4\u05d9 \u05d1\u05bc\u05b8\u05d0\u05b5\u05e4\u05b6\u05e8.",
+                    "english": "He hath also broken my teeth with gravel stones, He hath made me to wallow in ashes.",
+                    "verseNumber": 16
+                },
+                "17": {
+                    "hebrew": "\u05d5\u05b7\u05ea\u05bc\u05b4\u05d6\u05b0\u05e0\u05b7\u05d7 \u05de\u05b4\u05e9\u05bc\u05c1\u05b8\u05dc\u05d5\u05b9\u05dd \u05e0\u05b7\u05e4\u05b0\u05e9\u05c1\u05b4\u05d9, \u05e0\u05b8\u05e9\u05c1\u05b4\u05d9\u05ea\u05b4\u05d9 \u05d8\u05d5\u05b9\u05d1\u05b8\u05d4.",
+                    "english": "And my soul is removed far off from peace, I forgot prosperity.",
+                    "verseNumber": 17
+                },
+                "18": {
+                    "hebrew": "\u05d5\u05b8\u05d0\u05b9\u05de\u05b7\u05e8 \u05d0\u05b8\u05d1\u05b7\u05d3 \u05e0\u05b4\u05e6\u05b0\u05d7\u05b4\u05d9, \u05d5\u05b0\u05ea\u05d5\u05b9\u05d7\u05b7\u05dc\u05b0\u05ea\u05bc\u05b4\u05d9 \u05de\u05b5\u05d9\u05b0\u05d4\u05d5\u05b8\u05d4.\u00a0 {\u05e1}",
+                    "english": "And I said: 'My strength is perished, and mine expectation from the LORD.' {S}",
+                    "verseNumber": 18
+                },
+                "19": {
+                    "hebrew": "\u05d6\u05b0\u05db\u05b8\u05e8-\u05e2\u05b8\u05e0\u05b0\u05d9\u05b4\u05d9 \u05d5\u05bc\u05de\u05b0\u05e8\u05d5\u05bc\u05d3\u05b4\u05d9, \u05dc\u05b7\u05e2\u05b2\u05e0\u05b8\u05d4 \u05d5\u05b8\u05e8\u05b9\u05d0\u05e9\u05c1.",
+                    "english": "Remember mine affliction and mine anguish, the wormwood and the gall.",
+                    "verseNumber": 19
+                },
+                "20": {
+                    "hebrew": "\u05d6\u05b8\u05db\u05d5\u05b9\u05e8 \u05ea\u05bc\u05b4\u05d6\u05b0\u05db\u05bc\u05d5\u05b9\u05e8, \u05d5\u05ea\u05e9\u05d9\u05d7 (\u05d5\u05b0\u05ea\u05b8\u05e9\u05c1\u05d5\u05b9\u05d7\u05b7) \u05e2\u05b8\u05dc\u05b7\u05d9 \u05e0\u05b7\u05e4\u05b0\u05e9\u05c1\u05b4\u05d9.",
+                    "english": "My soul hath them still in remembrance, and is bowed down within me.",
+                    "verseNumber": 20
+                },
+                "21": {
+                    "hebrew": "\u05d6\u05b9\u05d0\u05ea \u05d0\u05b8\u05e9\u05c1\u05b4\u05d9\u05d1 \u05d0\u05b6\u05dc-\u05dc\u05b4\u05d1\u05bc\u05b4\u05d9, \u05e2\u05b7\u05dc-\u05db\u05bc\u05b5\u05df \u05d0\u05d5\u05b9\u05d7\u05b4\u05d9\u05dc.\u00a0 {\u05e1}",
+                    "english": "This I recall to my mind, therefore have I hope. {S}",
+                    "verseNumber": 21
+                },
+                "22": {
+                    "hebrew": "\u05d7\u05b7\u05e1\u05b0\u05d3\u05b5\u05d9 \u05d9\u05b0\u05d4\u05d5\u05b8\u05d4 \u05db\u05bc\u05b4\u05d9 \u05dc\u05b9\u05d0-\u05ea\u05b8\u05de\u05b0\u05e0\u05d5\u05bc, \u05db\u05bc\u05b4\u05d9 \u05dc\u05b9\u05d0-\u05db\u05b8\u05dc\u05d5\u05bc \u05e8\u05b7\u05d7\u05b2\u05de\u05b8\u05d9\u05d5.",
+                    "english": "Surely the LORD'S mercies are not consumed, surely His compassions fail not.",
+                    "verseNumber": 22
+                },
+                "23": {
+                    "hebrew": "\u05d7\u05b2\u05d3\u05b8\u05e9\u05c1\u05b4\u05d9\u05dd, \u05dc\u05b7\u05d1\u05bc\u05b0\u05e7\u05b8\u05e8\u05b4\u05d9\u05dd, \u05e8\u05b7\u05d1\u05bc\u05b8\u05d4, \u05d0\u05b1\u05de\u05d5\u05bc\u05e0\u05b8\u05ea\u05b6\u05da\u05b8.",
+                    "english": "They are new every morning; great is Thy faithfulness.",
+                    "verseNumber": 23
+                },
+                "24": {
+                    "hebrew": "\u05d7\u05b6\u05dc\u05b0\u05e7\u05b4\u05d9 \u05d9\u05b0\u05d4\u05d5\u05b8\u05d4 \u05d0\u05b8\u05de\u05b0\u05e8\u05b8\u05d4 \u05e0\u05b7\u05e4\u05b0\u05e9\u05c1\u05b4\u05d9, \u05e2\u05b7\u05dc-\u05db\u05bc\u05b5\u05df \u05d0\u05d5\u05b9\u05d7\u05b4\u05d9\u05dc \u05dc\u05d5\u05b9.\u00a0 {\u05e1}",
+                    "english": "'The LORD is my portion', saith my soul; 'Therefore will I hope in Him.' {S}",
+                    "verseNumber": 24
+                },
+                "25": {
+                    "hebrew": "\u05d8\u05d5\u05b9\u05d1 \u05d9\u05b0\u05d4\u05d5\u05b8\u05d4 \u05dc\u05b0\u05e7\u05b9\u05d5\u05b8\u05d5, \u05dc\u05b0\u05e0\u05b6\u05e4\u05b6\u05e9\u05c1 \u05ea\u05bc\u05b4\u05d3\u05b0\u05e8\u05b0\u05e9\u05c1\u05b6\u05e0\u05bc\u05d5\u05bc.",
+                    "english": "The LORD is good unto them that wait for Him, to the soul that seeketh Him.",
+                    "verseNumber": 25
+                },
+                "26": {
+                    "hebrew": "\u05d8\u05d5\u05b9\u05d1 \u05d5\u05b0\u05d9\u05b8\u05d7\u05b4\u05d9\u05dc \u05d5\u05b0\u05d3\u05d5\u05bc\u05de\u05b8\u05dd, \u05dc\u05b4\u05ea\u05b0\u05e9\u05c1\u05d5\u05bc\u05e2\u05b7\u05ea \u05d9\u05b0\u05d4\u05d5\u05b8\u05d4.",
+                    "english": "It is good that a man should quietly wait for the salvation of the LORD.",
+                    "verseNumber": 26
+                },
+                "27": {
+                    "hebrew": "\u05d8\u05d5\u05b9\u05d1 \u05dc\u05b7\u05d2\u05bc\u05b6\u05d1\u05b6\u05e8, \u05db\u05bc\u05b4\u05d9-\u05d9\u05b4\u05e9\u05bc\u05c2\u05b8\u05d0 \u05e2\u05b9\u05dc \u05d1\u05bc\u05b4\u05e0\u05b0\u05e2\u05d5\u05bc\u05e8\u05b8\u05d9\u05d5.\u00a0 {\u05e1}",
+                    "english": "It is good for a man that he bear the yoke in his youth. {S}",
+                    "verseNumber": 27
+                },
+                "28": {
+                    "hebrew": "\u05d9\u05b5\u05e9\u05c1\u05b5\u05d1 \u05d1\u05bc\u05b8\u05d3\u05b8\u05d3 \u05d5\u05b0\u05d9\u05b4\u05d3\u05bc\u05b9\u05dd, \u05db\u05bc\u05b4\u05d9 \u05e0\u05b8\u05d8\u05b7\u05dc \u05e2\u05b8\u05dc\u05b8\u05d9\u05d5.",
+                    "english": "Let him sit alone and keep silence, because He hath laid it upon him.",
+                    "verseNumber": 28
+                },
+                "29": {
+                    "hebrew": "\u05d9\u05b4\u05ea\u05bc\u05b5\u05df \u05d1\u05bc\u05b6\u05e2\u05b8\u05e4\u05b8\u05e8 \u05e4\u05bc\u05b4\u05d9\u05d4\u05d5\u05bc, \u05d0\u05d5\u05bc\u05dc\u05b7\u05d9 \u05d9\u05b5\u05e9\u05c1 \u05ea\u05bc\u05b4\u05e7\u05b0\u05d5\u05b8\u05d4.",
+                    "english": "Let him put his mouth in the dust, if so be there may be hope.",
+                    "verseNumber": 29
+                },
+                "30": {
+                    "hebrew": "\u05d9\u05b4\u05ea\u05bc\u05b5\u05df \u05dc\u05b0\u05de\u05b7\u05db\u05bc\u05b5\u05d4\u05d5\u05bc \u05dc\u05b6\u05d7\u05b4\u05d9, \u05d9\u05b4\u05e9\u05c2\u05b0\u05d1\u05bc\u05b7\u05e2 \u05d1\u05bc\u05b0\u05d7\u05b6\u05e8\u05b0\u05e4\u05bc\u05b8\u05d4.\u00a0 {\u05e1}",
+                    "english": "Let him give his cheek to him that smiteth him, let him be filled full with reproach. {S}",
+                    "verseNumber": 30
+                },
+                "31": {
+                    "hebrew": "\u05db\u05bc\u05b4\u05d9 \u05dc\u05b9\u05d0 \u05d9\u05b4\u05d6\u05b0\u05e0\u05b7\u05d7 \u05dc\u05b0\u05e2\u05d5\u05b9\u05dc\u05b8\u05dd, \u05d0\u05b2\u05d3\u05b9\u05e0\u05b8\u05d9.",
+                    "english": "For the Lord will not cast off for ever.",
+                    "verseNumber": 31
+                },
+                "32": {
+                    "hebrew": "\u05db\u05bc\u05b4\u05d9 \u05d0\u05b4\u05dd-\u05d4\u05d5\u05b9\u05d2\u05b8\u05d4, \u05d5\u05b0\u05e8\u05b4\u05d7\u05b7\u05dd \u05db\u05bc\u05b0\u05e8\u05b9\u05d1 \u05d7\u05b2\u05e1\u05b8\u05d3\u05b8\u05d9\u05d5.",
+                    "english": "For though He cause grief, yet will He have compassion according to the multitude of His mercies.",
+                    "verseNumber": 32
+                },
+                "33": {
+                    "hebrew": "\u05db\u05bc\u05b4\u05d9 \u05dc\u05b9\u05d0 \u05e2\u05b4\u05e0\u05bc\u05b8\u05d4 \u05de\u05b4\u05dc\u05bc\u05b4\u05d1\u05bc\u05d5\u05b9, \u05d5\u05b7\u05d9\u05bc\u05b7\u05d2\u05bc\u05b6\u05d4 \u05d1\u05bc\u05b0\u05e0\u05b5\u05d9-\u05d0\u05b4\u05d9\u05e9\u05c1.\u00a0 {\u05e1}",
+                    "english": "For He doth not afflict willingly, nor grieve the children of men. {S}",
+                    "verseNumber": 33
+                },
+                "34": {
+                    "hebrew": "\u05dc\u05b0\u05d3\u05b7\u05db\u05bc\u05b5\u05d0 \u05ea\u05bc\u05b7\u05d7\u05b7\u05ea \u05e8\u05b7\u05d2\u05b0\u05dc\u05b8\u05d9\u05d5, \u05db\u05bc\u05b9\u05dc \u05d0\u05b2\u05e1\u05b4\u05d9\u05e8\u05b5\u05d9 \u05d0\u05b8\u05e8\u05b6\u05e5.",
+                    "english": "To crush under foot all the prisoners of the earth,",
+                    "verseNumber": 34
+                },
+                "35": {
+                    "hebrew": "\u05dc\u05b0\u05d4\u05b7\u05d8\u05bc\u05d5\u05b9\u05ea, \u05de\u05b4\u05e9\u05c1\u05b0\u05e4\u05bc\u05b7\u05d8-\u05d2\u05bc\u05b8\u05d1\u05b6\u05e8, \u05e0\u05b6\u05d2\u05b6\u05d3, \u05e4\u05bc\u05b0\u05e0\u05b5\u05d9 \u05e2\u05b6\u05dc\u05b0\u05d9\u05d5\u05b9\u05df.",
+                    "english": "To turn aside the right of a man before the face of the Most High,",
+                    "verseNumber": 35
+                },
+                "36": {
+                    "hebrew": "\u05dc\u05b0\u05e2\u05b7\u05d5\u05bc\u05b5\u05ea \u05d0\u05b8\u05d3\u05b8\u05dd \u05d1\u05bc\u05b0\u05e8\u05b4\u05d9\u05d1\u05d5\u05b9, \u05d0\u05b2\u05d3\u05b9\u05e0\u05b8\u05d9 \u05dc\u05b9\u05d0 \u05e8\u05b8\u05d0\u05b8\u05d4.\u00a0 {\u05e1}",
+                    "english": "To subvert a man in his cause, the Lord approveth not. {S}",
+                    "verseNumber": 36
+                },
+                "37": {
+                    "hebrew": "\u05de\u05b4\u05d9 \u05d6\u05b6\u05d4 \u05d0\u05b8\u05de\u05b7\u05e8 \u05d5\u05b7\u05ea\u05bc\u05b6\u05d4\u05b4\u05d9, \u05d0\u05b2\u05d3\u05b9\u05e0\u05b8\u05d9 \u05dc\u05b9\u05d0 \u05e6\u05b4\u05d5\u05bc\u05b8\u05d4.",
+                    "english": "Who is he that saith, and it cometh to pass, when the Lord commandeth it not?",
+                    "verseNumber": 37
+                },
+                "38": {
+                    "hebrew": "\u05de\u05b4\u05e4\u05bc\u05b4\u05d9 \u05e2\u05b6\u05dc\u05b0\u05d9\u05d5\u05b9\u05df \u05dc\u05b9\u05d0 \u05ea\u05b5\u05e6\u05b5\u05d0, \u05d4\u05b8\u05e8\u05b8\u05e2\u05d5\u05b9\u05ea \u05d5\u05b0\u05d4\u05b7\u05d8\u05bc\u05d5\u05b9\u05d1.",
+                    "english": "Out of the mouth of the Most High proceedeth not evil and good?",
+                    "verseNumber": 38
+                },
+                "39": {
+                    "hebrew": "\u05de\u05b7\u05d4-\u05d9\u05bc\u05b4\u05ea\u05b0\u05d0\u05d5\u05b9\u05e0\u05b5\u05df \u05d0\u05b8\u05d3\u05b8\u05dd \u05d7\u05b8\u05d9, \u05d2\u05bc\u05b6\u05d1\u05b6\u05e8 \u05e2\u05b7\u05dc-\u05d7\u05b2\u05d8\u05b8\u05d0\u05b8\u05d5.\u00a0 {\u05e1}",
+                    "english": "Wherefore doth a living man complain, a strong man because of his sins? {S}",
+                    "verseNumber": 39
+                },
+                "40": {
+                    "hebrew": "\u05e0\u05b7\u05d7\u05b0\u05e4\u05bc\u05b0\u05e9\u05c2\u05b8\u05d4 \u05d3\u05b0\u05e8\u05b8\u05db\u05b5\u05d9\u05e0\u05d5\u05bc \u05d5\u05b0\u05e0\u05b7\u05d7\u05b0\u05e7\u05b9\u05e8\u05b8\u05d4, \u05d5\u05b0\u05e0\u05b8\u05e9\u05c1\u05d5\u05bc\u05d1\u05b8\u05d4 \u05e2\u05b7\u05d3-\u05d9\u05b0\u05d4\u05d5\u05b8\u05d4.",
+                    "english": "Let us search and try our ways, and return to the LORD.",
+                    "verseNumber": 40
+                },
+                "41": {
+                    "hebrew": "\u05e0\u05b4\u05e9\u05bc\u05c2\u05b8\u05d0 \u05dc\u05b0\u05d1\u05b8\u05d1\u05b5\u05e0\u05d5\u05bc \u05d0\u05b6\u05dc-\u05db\u05bc\u05b7\u05e4\u05bc\u05b8\u05d9\u05b4\u05dd, \u05d0\u05b6\u05dc-\u05d0\u05b5\u05dc \u05d1\u05bc\u05b7\u05e9\u05bc\u05c1\u05b8\u05de\u05b8\u05d9\u05b4\u05dd.",
+                    "english": "Let us lift up our heart with our hands unto God in the heavens.",
+                    "verseNumber": 41
+                },
+                "42": {
+                    "hebrew": "\u05e0\u05b7\u05d7\u05b0\u05e0\u05d5\u05bc \u05e4\u05b8\u05e9\u05c1\u05b7\u05e2\u05b0\u05e0\u05d5\u05bc \u05d5\u05bc\u05de\u05b8\u05e8\u05b4\u05d9\u05e0\u05d5\u05bc, \u05d0\u05b7\u05ea\u05bc\u05b8\u05d4 \u05dc\u05b9\u05d0 \u05e1\u05b8\u05dc\u05b8\u05d7\u05b0\u05ea\u05bc\u05b8.\u00a0 {\u05e1}",
+                    "english": "We have transgressed and have rebelled; Thou hast not pardoned. {S}",
+                    "verseNumber": 42
+                },
+                "43": {
+                    "hebrew": "\u05e1\u05b7\u05db\u05bc\u05d5\u05b9\u05ea\u05b8\u05d4 \u05d1\u05b8\u05d0\u05b7\u05e3 \u05d5\u05b7\u05ea\u05bc\u05b4\u05e8\u05b0\u05d3\u05bc\u05b0\u05e4\u05b5\u05e0\u05d5\u05bc, \u05d4\u05b8\u05e8\u05b7\u05d2\u05b0\u05ea\u05bc\u05b8 \u05dc\u05b9\u05d0 \u05d7\u05b8\u05de\u05b8\u05dc\u05b0\u05ea\u05bc\u05b8.",
+                    "english": "Thou hast covered with anger and pursued us; Thou hast slain unsparingly.",
+                    "verseNumber": 43
+                },
+                "44": {
+                    "hebrew": "\u05e1\u05b7\u05db\u05bc\u05d5\u05b9\u05ea\u05b8\u05d4 \u05d1\u05b6\u05e2\u05b8\u05e0\u05b8\u05df \u05dc\u05b8\u05da\u05b0, \u05de\u05b5\u05e2\u05b2\u05d1\u05d5\u05b9\u05e8 \u05ea\u05bc\u05b0\u05e4\u05b4\u05dc\u05bc\u05b8\u05d4.",
+                    "english": "Thou hast covered Thyself with a cloud, so that no prayer can pass through.",
+                    "verseNumber": 44
+                },
+                "45": {
+                    "hebrew": "\u05e1\u05b0\u05d7\u05b4\u05d9 \u05d5\u05bc\u05de\u05b8\u05d0\u05d5\u05b9\u05e1 \u05ea\u05bc\u05b0\u05e9\u05c2\u05b4\u05d9\u05de\u05b5\u05e0\u05d5\u05bc, \u05d1\u05bc\u05b0\u05e7\u05b6\u05e8\u05b6\u05d1 \u05d4\u05b8\u05e2\u05b7\u05de\u05bc\u05b4\u05d9\u05dd.\u00a0 {\u05e1}",
+                    "english": "Thou hast made us as the offscouring and refuse in the midst of the peoples. {S}",
+                    "verseNumber": 45
+                },
+                "46": {
+                    "hebrew": "\u05e4\u05bc\u05b8\u05e6\u05d5\u05bc \u05e2\u05b8\u05dc\u05b5\u05d9\u05e0\u05d5\u05bc \u05e4\u05bc\u05b4\u05d9\u05d4\u05b6\u05dd, \u05db\u05bc\u05b8\u05dc-\u05d0\u05b9\u05d9\u05b0\u05d1\u05b5\u05d9\u05e0\u05d5\u05bc.",
+                    "english": "All our enemies have opened their mouth wide against us.",
+                    "verseNumber": 46
+                },
+                "47": {
+                    "hebrew": "\u05e4\u05bc\u05b7\u05d7\u05b7\u05d3 \u05d5\u05b8\u05e4\u05b7\u05d7\u05b7\u05ea \u05d4\u05b8\u05d9\u05b8\u05d4 \u05dc\u05b8\u05e0\u05d5\u05bc, \u05d4\u05b7\u05e9\u05bc\u05c1\u05b5\u05d0\u05ea \u05d5\u05b0\u05d4\u05b7\u05e9\u05bc\u05c1\u05b8\u05d1\u05b6\u05e8.",
+                    "english": "Terror and the pit are come upon us, desolation and destruction.",
+                    "verseNumber": 47
+                },
+                "48": {
+                    "hebrew": "\u05e4\u05bc\u05b7\u05dc\u05b0\u05d2\u05b5\u05d9-\u05de\u05b7\u05d9\u05b4\u05dd \u05ea\u05bc\u05b5\u05e8\u05b7\u05d3 \u05e2\u05b5\u05d9\u05e0\u05b4\u05d9, \u05e2\u05b7\u05dc-\u05e9\u05c1\u05b6\u05d1\u05b6\u05e8 \u05d1\u05bc\u05b7\u05ea-\u05e2\u05b7\u05de\u05bc\u05b4\u05d9.\u00a0 {\u05e1}",
+                    "english": "Mine eye runneth down with rivers of water, for the breach of the daughter of my people. {S}",
+                    "verseNumber": 48
+                },
+                "49": {
+                    "hebrew": "\u05e2\u05b5\u05d9\u05e0\u05b4\u05d9 \u05e0\u05b4\u05d2\u05bc\u05b0\u05e8\u05b8\u05d4 \u05d5\u05b0\u05dc\u05b9\u05d0 \u05ea\u05b4\u05d3\u05b0\u05de\u05b6\u05d4, \u05de\u05b5\u05d0\u05b5\u05d9\u05df \u05d4\u05b2\u05e4\u05bb\u05d2\u05d5\u05b9\u05ea.",
+                    "english": "Mine eye is poured out, and ceaseth not, without any intermission,",
+                    "verseNumber": 49
+                },
+                "50": {
+                    "hebrew": "\u05e2\u05b7\u05d3-\u05d9\u05b7\u05e9\u05c1\u05b0\u05e7\u05b4\u05d9\u05e3 \u05d5\u05b0\u05d9\u05b5\u05e8\u05b6\u05d0, \u05d9\u05b0\u05d4\u05d5\u05b8\u05d4 \u05de\u05b4\u05e9\u05bc\u05c1\u05b8\u05de\u05b8\u05d9\u05b4\u05dd.",
+                    "english": "Till the LORD look forth, and behold from heaven.",
+                    "verseNumber": 50
+                },
+                "51": {
+                    "hebrew": "\u05e2\u05b5\u05d9\u05e0\u05b4\u05d9 \u05e2\u05d5\u05b9\u05dc\u05b0\u05dc\u05b8\u05d4 \u05dc\u05b0\u05e0\u05b7\u05e4\u05b0\u05e9\u05c1\u05b4\u05d9, \u05de\u05b4\u05db\u05bc\u05b9\u05dc \u05d1\u05bc\u05b0\u05e0\u05d5\u05b9\u05ea \u05e2\u05b4\u05d9\u05e8\u05b4\u05d9.\u00a0 {\u05e1}",
+                    "english": "Mine eye affected my soul, because of all the daughters of my city. {S}",
+                    "verseNumber": 51
+                },
+                "52": {
+                    "hebrew": "\u05e6\u05d5\u05b9\u05d3 \u05e6\u05b8\u05d3\u05d5\u05bc\u05e0\u05b4\u05d9 \u05db\u05bc\u05b7\u05e6\u05bc\u05b4\u05e4\u05bc\u05d5\u05b9\u05e8, \u05d0\u05b9\u05d9\u05b0\u05d1\u05b7\u05d9 \u05d7\u05b4\u05e0\u05bc\u05b8\u05dd.",
+                    "english": "They have chased me sore like a bird, that are mine enemies without cause.",
+                    "verseNumber": 52
+                },
+                "53": {
+                    "hebrew": "\u05e6\u05b8\u05de\u05b0\u05ea\u05d5\u05bc \u05d1\u05b7\u05d1\u05bc\u05d5\u05b9\u05e8 \u05d7\u05b7\u05d9\u05bc\u05b8\u05d9, \u05d5\u05b7\u05d9\u05bc\u05b7\u05d3\u05bc\u05d5\u05bc-\u05d0\u05b6\u05d1\u05b6\u05df \u05d1\u05bc\u05b4\u05d9.",
+                    "english": "They have cut off my life in the dungeon, and have cast stones upon me.",
+                    "verseNumber": 53
+                },
+                "54": {
+                    "hebrew": "\u05e6\u05b8\u05e4\u05d5\u05bc-\u05de\u05b7\u05d9\u05b4\u05dd \u05e2\u05b7\u05dc-\u05e8\u05b9\u05d0\u05e9\u05c1\u05b4\u05d9, \u05d0\u05b8\u05de\u05b7\u05e8\u05b0\u05ea\u05bc\u05b4\u05d9 \u05e0\u05b4\u05d2\u05b0\u05d6\u05b8\u05e8\u05b0\u05ea\u05bc\u05b4\u05d9.\u00a0 {\u05e1}",
+                    "english": "Waters flowed over my head; I said: 'I am cut off.' {S}",
+                    "verseNumber": 54
+                },
+                "55": {
+                    "hebrew": "\u05e7\u05b8\u05e8\u05b8\u05d0\u05ea\u05b4\u05d9 \u05e9\u05c1\u05b4\u05de\u05b0\u05da\u05b8 \u05d9\u05b0\u05d4\u05d5\u05b8\u05d4, \u05de\u05b4\u05d1\u05bc\u05d5\u05b9\u05e8 \u05ea\u05bc\u05b7\u05d7\u05b0\u05ea\u05bc\u05b4\u05d9\u05bc\u05d5\u05b9\u05ea.",
+                    "english": "I called upon Thy name, O LORD, Out of the lowest dungeon.",
+                    "verseNumber": 55
+                },
+                "56": {
+                    "hebrew": "\u05e7\u05d5\u05b9\u05dc\u05b4\u05d9, \u05e9\u05c1\u05b8\u05de\u05b8\u05e2\u05b0\u05ea\u05bc\u05b8:\u00a0 \u05d0\u05b7\u05dc-\u05ea\u05bc\u05b7\u05e2\u05b0\u05dc\u05b5\u05dd \u05d0\u05b8\u05d6\u05b0\u05e0\u05b0\u05da\u05b8 \u05dc\u05b0\u05e8\u05b7\u05d5\u05b0\u05d7\u05b8\u05ea\u05b4\u05d9, \u05dc\u05b0\u05e9\u05c1\u05b7\u05d5\u05b0\u05e2\u05b8\u05ea\u05b4\u05d9.",
+                    "english": "Thou heardest my voice; hide not Thine ear at my sighing, at my cry.",
+                    "verseNumber": 56
+                },
+                "57": {
+                    "hebrew": "\u05e7\u05b8\u05e8\u05b7\u05d1\u05b0\u05ea\u05bc\u05b8 \u05d1\u05bc\u05b0\u05d9\u05d5\u05b9\u05dd \u05d0\u05b6\u05e7\u05b0\u05e8\u05b8\u05d0\u05b6\u05da\u05bc\u05b8, \u05d0\u05b8\u05de\u05b7\u05e8\u05b0\u05ea\u05bc\u05b8 \u05d0\u05b7\u05dc-\u05ea\u05bc\u05b4\u05d9\u05e8\u05b8\u05d0.\u00a0 {\u05e1}",
+                    "english": "Thou drewest near in the day that I called upon Thee; Thou saidst: 'Fear not.' {S}",
+                    "verseNumber": 57
+                },
+                "58": {
+                    "hebrew": "\u05e8\u05b7\u05d1\u05b0\u05ea\u05bc\u05b8 \u05d0\u05b2\u05d3\u05b9\u05e0\u05b8\u05d9 \u05e8\u05b4\u05d9\u05d1\u05b5\u05d9 \u05e0\u05b7\u05e4\u05b0\u05e9\u05c1\u05b4\u05d9, \u05d2\u05bc\u05b8\u05d0\u05b7\u05dc\u05b0\u05ea\u05bc\u05b8 \u05d7\u05b7\u05d9\u05bc\u05b8\u05d9.",
+                    "english": "O Lord, Thou hast pleaded the causes of my soul; Thou hast redeemed my life.",
+                    "verseNumber": 58
+                },
+                "59": {
+                    "hebrew": "\u05e8\u05b8\u05d0\u05b4\u05d9\u05ea\u05b8\u05d4 \u05d9\u05b0\u05d4\u05d5\u05b8\u05d4 \u05e2\u05b7\u05d5\u05bc\u05b8\u05ea\u05b8\u05ea\u05b4\u05d9, \u05e9\u05c1\u05b8\u05e4\u05b0\u05d8\u05b8\u05d4 \u05de\u05b4\u05e9\u05c1\u05b0\u05e4\u05bc\u05b8\u05d8\u05b4\u05d9.",
+                    "english": "O LORD, Thou hast seen my wrong; judge Thou my cause.",
+                    "verseNumber": 59
+                },
+                "60": {
+                    "hebrew": "\u05e8\u05b8\u05d0\u05b4\u05d9\u05ea\u05b8\u05d4, \u05db\u05bc\u05b8\u05dc-\u05e0\u05b4\u05e7\u05b0\u05de\u05b8\u05ea\u05b8\u05dd--\u05db\u05bc\u05b8\u05dc-\u05de\u05b7\u05d7\u05b0\u05e9\u05c1\u05b0\u05d1\u05b9\u05ea\u05b8\u05dd, \u05dc\u05b4\u05d9.\u00a0 {\u05e1}",
+                    "english": "Thou hast seen all their vengeance and all their devices against me. {S}",
+                    "verseNumber": 60
+                },
+                "61": {
+                    "hebrew": "\u05e9\u05c1\u05b8\u05de\u05b7\u05e2\u05b0\u05ea\u05bc\u05b8 \u05d7\u05b6\u05e8\u05b0\u05e4\u05bc\u05b8\u05ea\u05b8\u05dd \u05d9\u05b0\u05d4\u05d5\u05b8\u05d4, \u05db\u05bc\u05b8\u05dc-\u05de\u05b7\u05d7\u05b0\u05e9\u05c1\u05b0\u05d1\u05b9\u05ea\u05b8\u05dd \u05e2\u05b8\u05dc\u05b8\u05d9.",
+                    "english": "Thou hast heard their taunt, O LORD, and all their devices against me;",
+                    "verseNumber": 61
+                },
+                "62": {
+                    "hebrew": "\u05e9\u05c2\u05b4\u05e4\u05b0\u05ea\u05b5\u05d9 \u05e7\u05b8\u05de\u05b7\u05d9 \u05d5\u05b0\u05d4\u05b6\u05d2\u05b0\u05d9\u05d5\u05b9\u05e0\u05b8\u05dd, \u05e2\u05b8\u05dc\u05b7\u05d9 \u05db\u05bc\u05b8\u05dc-\u05d4\u05b7\u05d9\u05bc\u05d5\u05b9\u05dd.",
+                    "english": "The lips of those that rose up against me, and their muttering against me all the day.",
+                    "verseNumber": 62
+                },
+                "63": {
+                    "hebrew": "\u05e9\u05c1\u05b4\u05d1\u05b0\u05ea\u05bc\u05b8\u05dd \u05d5\u05b0\u05e7\u05b4\u05d9\u05de\u05b8\u05ea\u05b8\u05dd \u05d4\u05b7\u05d1\u05bc\u05b4\u05d9\u05d8\u05b8\u05d4, \u05d0\u05b2\u05e0\u05b4\u05d9 \u05de\u05b7\u05e0\u05b0\u05d2\u05bc\u05b4\u05d9\u05e0\u05b8\u05ea\u05b8\u05dd.\u00a0 {\u05e1}",
+                    "english": "Behold Thou their sitting down, and their rising up; I am their song. {S}",
+                    "verseNumber": 63
+                },
+                "64": {
+                    "hebrew": "\u05ea\u05bc\u05b8\u05e9\u05c1\u05b4\u05d9\u05d1 \u05dc\u05b8\u05d4\u05b6\u05dd \u05d2\u05bc\u05b0\u05de\u05d5\u05bc\u05dc \u05d9\u05b0\u05d4\u05d5\u05b8\u05d4, \u05db\u05bc\u05b0\u05de\u05b7\u05e2\u05b2\u05e9\u05c2\u05b5\u05d4 \u05d9\u05b0\u05d3\u05b5\u05d9\u05d4\u05b6\u05dd.",
+                    "english": "Thou wilt render unto them a recompense, O LORD, according to the work of their hands.",
+                    "verseNumber": 64
+                },
+                "65": {
+                    "hebrew": "\u05ea\u05bc\u05b4\u05ea\u05bc\u05b5\u05df \u05dc\u05b8\u05d4\u05b6\u05dd \u05de\u05b0\u05d2\u05b4\u05e0\u05bc\u05b7\u05ea-\u05dc\u05b5\u05d1, \u05ea\u05bc\u05b7\u05d0\u05b2\u05dc\u05b8\u05ea\u05b0\u05da\u05b8 \u05dc\u05b8\u05d4\u05b6\u05dd.",
+                    "english": "Thou wilt give them hardness of heart, Thy curse unto them.",
+                    "verseNumber": 65
+                },
+                "66": {
+                    "hebrew": "\u05ea\u05bc\u05b4\u05e8\u05b0\u05d3\u05bc\u05b9\u05e3 \u05d1\u05bc\u05b0\u05d0\u05b7\u05e3 \u05d5\u05b0\u05ea\u05b7\u05e9\u05c1\u05b0\u05de\u05b4\u05d9\u05d3\u05b5\u05dd, \u05de\u05b4\u05ea\u05bc\u05b7\u05d7\u05b7\u05ea \u05e9\u05c1\u05b0\u05de\u05b5\u05d9 \u05d9\u05b0\u05d4\u05d5\u05b8\u05d4.\u00a0 {\u05e4}",
+                    "english": "Thou wilt pursue them in anger, and destroy them from under the heavens of the LORD. {P}",
+                    "verseNumber": 66
+                }
+            },
+            "link": "https://www.mechon-mamre.org/p/pt/pt3203.htm"
+        },
+        "4": {
+            "chapterNumber": 4,
+            "canonicalTitle": "Lamentations Chapter 4",
+            "verses": {
+                "1": {
+                    "hebrew": "\u2020\u2020\u0430\u2248\u0439\u043b\u00bb\u0434 \u0439\u0435\u045b\u0442\u00ab\u043d \u0436\u00bb\u0434\u00bb\u0431, \u0439\u0192\u0449\u2014\u0458\u0440\u2206\u0430 \u0434\u00ab\u043b\u045b\u2206\u044a\u2206\u043d \u0434\u00ab\u0438\u045b\u0435\u2026\u0431; \u044a\u045b\u0192\u0449\u2014\u0458\u044a\u045b\u00ab\u0444\u045b\u2248\u043b\u0458\u0440\u00bb\u0434, \u0430\u00ab\u0431\u0458\u0440\u2248\u0439-\u0447\u2026\u0433\u2206\u0449\u2014, \u0431\u045b\u0458\u0448\u2026\u0430\u0449\u2014, \u043b\u045b\u00bb\u043c-\u0437\u0435\u045b\u0446\u0435\u2026\u044a.\u2020 {\u0441}",
+                    "english": "How is the gold become dim! How is the most fine gold changed! The hallowed stones are poured out at the head of every street. {S}",
+                    "verseNumber": 1
+                },
+                "2": {
+                    "hebrew": "\u2020\u2020\u0431\u045b\u0458\u0440\u2248\u0439 \u0446\u0192\u0439\u045b\u0435\u2026\u043f \u0434\u00ab\u0439\u0458\u0447\u00bb\u0448\u0192\u0439\u043d, \u0434\u00ab\u043e\u0458\u0441\u040b\u043c\u045b\u00bb\u0430\u0192\u0439\u043d \u0431\u045b\u00ab\u0444\u045b\u00bb\u0436--\u0430\u2248\u0439\u043b\u00bb\u0434 \u0440\u2206\u0437\u0458\u0449\u2014\u0458\u0431\u0435\u045b \u043c\u0458\u0440\u0192\u0431\u0458\u043c\u2248\u0439-\u0437\u2206\u0448\u2206\u0449\u201c, \u043e\u00ab\u0442\u00ac\u0449\u201c\u2248\u0434 \u0439\u0458\u0433\u2248\u0439 \u0439\u0435\u2026\u0446\u2248\u0448.\u2020 {\u0441}",
+                    "english": "The precious sons of Zion, comparable to fine gold, how are they esteemed as earthen pitchers, the work of the hands of the potter! {S}",
+                    "verseNumber": 2
+                },
+                "3": {
+                    "hebrew": "\u2020\u2020\u0432\u045b\u00ab\u043d-\u044a\u0440\u0439\u043f (\u044a\u045b\u00ab\u0440\u045b\u0192\u0439\u043d) \u0437\u00bb\u043c\u0458\u0446\u0435\u045b \u0449\u2014\u00ab\u0433, \u0434\u2248\u0439\u0440\u0192\u0439\u0447\u0435\u045b \u0432\u045b\u0435\u045b\u0448\u2248\u0439\u0434\u2206\u043f; \u0431\u045b\u00ab\u044a-\u0442\u00ab\u043e\u045b\u0192\u0439 \u043c\u0458\u0430\u00ab\u043b\u0458\u0436\u00bb\u0448, \u043b\u0439 \u0442\u0440\u0439\u043d (\u043b\u045b\u00ab\u0439\u0458\u0442\u2248\u0440\u0192\u0439\u043d) \u0431\u045b\u00ab\u043e\u045b\u0192\u0433\u0458\u0431\u045b\u00bb\u0448.\u2020 {\u0441}",
+                    "english": "Even the jackals draw out the breast, they give suck to their young ones; the daughter of my people is become cruel, like the ostriches in the wilderness. {S}",
+                    "verseNumber": 3
+                },
+                "4": {
+                    "hebrew": "\u2020\u2020\u0433\u045b\u00bb\u0431\u00ab\u0447 \u043c\u0458\u0449\u2014\u0435\u2026\u043f \u0439\u0435\u2026\u0440\u2248\u0447 \u0430\u2206\u043c-\u0437\u0192\u043b\u045b\u0435\u2026, \u0431\u045b\u00ab\u0446\u045b\u00bb\u043e\u00bb\u0430; \u0442\u0435\u2026\u043c\u00bb\u043c\u0192\u0439\u043d \u0449\u2014\u00bb\u0430\u00ac\u043c\u0435\u045b \u043c\u2206\u0437\u2206\u043d, \u0444\u045b\u2026\u0448\u2248\u0449\u201c \u0430\u2248\u0439\u043f \u043c\u00bb\u0434\u2206\u043d.\u2020 {\u0441}",
+                    "english": "The tongue of the sucking child cleaveth to the roof of his mouth for thirst; the young children ask bread, and none breaketh it unto them. {S}",
+                    "verseNumber": 4
+                },
+                "5": {
+                    "hebrew": "\u2020\u2020\u0434\u00bb\u0430\u2026\u043b\u0458\u043c\u0192\u0439\u043d, \u043c\u0458\u043e\u00ab\u0442\u00ac\u0433\u00ab\u0440\u045b\u0192\u0439\u043d, \u0440\u00bb\u0449\u2014\u00ab\u043e\u045b\u0435\u045b, \u0431\u045b\u00ab\u0437\u0435\u045b\u0446\u0435\u2026\u044a; \u0434\u00bb\u0430\u0405\u043e\u040b\u0440\u0192\u0439\u043d \u0442\u00ac\u043c\u2248\u0439 \u044a\u0435\u2026\u043c\u00bb\u0442, \u0437\u0192\u0431\u045b\u0458\u0447\u0435\u045b \u0430\u00ab\u0449\u2014\u0458\u0444\u045b\u00ab\u044a\u045b\u0435\u2026\u044a.\u2020 {\u0441}",
+                    "english": "They that did feed on dainties are desolate in the streets; they that were brought up in scarlet embrace dunghills. {S}",
+                    "verseNumber": 5
+                },
+                "6": {
+                    "hebrew": "\u2020\u2020\u0435\u00ab\u0439\u045b\u0192\u0432\u0458\u0433\u045b\u00ab\u043c \u0442\u00ac\u0435\u00a0\u043f \u0431\u045b\u00ab\u044a-\u0442\u00ab\u043e\u045b\u0192\u0439, \u043e\u2248\u0437\u00ab\u0438\u045b\u00ab\u0430\u044a \u0441\u0458\u0433\u2026\u043d:\u2020 \u0434\u00ab\u0434\u00ac\u0444\u0435\u045b\u043b\u00bb\u0434 \u043b\u0458\u043e\u0435\u2026-\u0448\u00bb\u0432\u00ab\u0442, \u0435\u0458\u043c\u2026\u0430-\u0437\u00bb\u043c\u0435\u045b \u0431\u00bb\u0434\u045b \u0439\u00bb\u0433\u00bb\u0439\u0192\u043d.\u2020 {\u0441}",
+                    "english": "For the iniquity of the daughter of my people is greater than the sin of Sodom, that was overthrown as in a moment, and no hands fell upon her. {S}",
+                    "verseNumber": 6
+                },
+                "7": {
+                    "hebrew": "\u2020\u2020\u0436\u00ab\u043b\u045b\u0435\u045b \u0440\u0458\u0436\u0192\u0439\u0448\u2206\u0439\u0434\u00bb \u043e\u0192\u0449\u045b\u2014\u2206\u043c\u2206\u0432, \u0446\u00ab\u0437\u0435\u045b \u043e\u2248\u0437\u00bb\u043c\u00bb\u0431; \u0430\u00bb\u0433\u0458\u043e\u0435\u045b \u0442\u2206\u0446\u2206\u043d \u043e\u0192\u0444\u045b\u0458\u0440\u0192\u0439\u0440\u0192\u0439\u043d, \u0441\u00ab\u0444\u045b\u0192\u0439\u0448 \u0432\u045b\u0192\u0436\u0458\u0448\u00bb\u044a\u00bb\u043d.\u2020 {\u0441}",
+                    "english": "Her princes were purer than snow, they were whiter than milk, they were more ruddy in body than rubies, their polishing was as of sapphire; {S}",
+                    "verseNumber": 7
+                },
+                "8": {
+                    "hebrew": "\u2020\u2020\u0437\u00bb\u0449\u2014\u00ab\u043a\u0458 \u043e\u0192\u0449\u045b\u2014\u0458\u0437\u0435\u2026\u0448 \u044a\u045b\u00bb\u0430\u221a\u0448\u00bb\u043d, \u043c\u2026\u0430 \u0440\u0192\u043b\u045b\u0458\u0448\u0435\u045b \u0431\u045b\u00ab\u0437\u0435\u045b\u0446\u0435\u2026\u044a; \u0446\u00bb\u0444\u00ab\u0433 \u0442\u0435\u2026\u0448\u00bb\u043d \u0442\u00ab\u043c-\u0442\u00ab\u0446\u0458\u043e\u00bb\u043d, \u0439\u00bb\u0431\u2248\u0449\u2014 \u0434\u00bb\u0439\u00bb\u0434 \u043b\u00bb\u0442\u2248\u0445.\u2020 {\u0441}",
+                    "english": "Their visage is blacker than coal; they are not known in the streets; their skin is shrivelled upon their bones; it is withered, it is become like a stick. {S}",
+                    "verseNumber": 8
+                },
+                "9": {
+                    "hebrew": "\u2020\u2020\u0438\u0435\u2026\u0431\u0192\u0439\u043d \u0434\u00bb\u0439\u0435\u045b \u0437\u00ab\u043c\u0458\u043c\u2248\u0439-\u0437\u2206\u0448\u2206\u0431, \u043e\u2248\u0437\u00ab\u043c\u0458\u043c\u2248\u0439 \u0448\u00bb\u0442\u00bb\u0431:\u2020 \u0449\u2014\u2206\u0434\u2248\u043d \u0439\u00bb\u0436\u040b\u0431\u0435\u045b \u043e\u0458\u0433\u040b\u0447\u045b\u00bb\u0448\u0192\u0439\u043d, \u043e\u0192\u044a\u045b\u0458\u0440\u0435\u045b\u0431\u2026\u044a \u0449\u201c\u00bb\u0433\u00bb\u0439.\u2020 {\u0441}",
+                    "english": "They that are slain with the sword are better than they that are slain with hunger; for these pine away, stricken through, for want of the fruits of the field. {S}",
+                    "verseNumber": 9
+                },
+                "10": {
+                    "hebrew": "\u2020\u2020\u0439\u0458\u0433\u2248\u0439, \u0440\u00bb\u0449\u2014\u0192\u0439\u043d \u0448\u00ab\u0437\u00ac\u043e\u00bb\u0440\u0192\u0439\u045b\u0435\u2026\u044a--\u0431\u045b\u0192\u0449\u045b\u2014\u0458\u043c\u0435\u045b, \u0439\u00ab\u043c\u0458\u0433\u2248\u0439\u0434\u2206\u043f; \u0434\u00bb\u0439\u0435\u045b \u043c\u0458\u0431\u00bb\u0448\u0435\u2026\u044a \u043c\u00bb\u043e\u0435\u2026, \u0431\u045b\u0458\u0449\u2014\u2206\u0431\u2206\u0448 \u0431\u045b\u00ab\u044a-\u0442\u00ab\u043e\u045b\u0192\u0439.\u2020 {\u0441}",
+                    "english": "The hands of women full of compassion have sodden their own children; they were their food in the destruction of the daughter of my people. {S}",
+                    "verseNumber": 10
+                },
+                "11": {
+                    "hebrew": "\u2020\u2020\u043b\u045b\u0192\u043c\u045b\u00bb\u0434 \u0439\u0458\u0434\u0435\u00bb\u0434 \u0430\u2206\u044a-\u0437\u00ac\u043e\u00bb\u044a\u0435\u2026, \u0449\u2014\u00bb\u0444\u00ab\u043a\u0458 \u0437\u00ac\u0448\u0435\u2026\u043f \u0430\u00ab\u0444\u045b\u0435\u2026; \u0435\u00ab\u0439\u045b\u00ab\u0446\u045b\u2206\u044a-\u0430\u2248\u0449\u2014 \u0431\u045b\u0458\u0446\u0192\u0439\u045b\u0435\u2026\u043f, \u0435\u00ab\u044a\u045b\u2026\u0430\u043b\u00ab\u043c \u0439\u0458\u0441\u2026\u0433\u2026\u044a\u2206\u0439\u0434\u00bb.\u2020 {\u0441}",
+                    "english": "The LORD hath accomplished His fury, He hath poured out His fierce anger; and He hath kindled a fire in Zion, which hath devoured the foundations thereof. {S}",
+                    "verseNumber": 11
+                },
+                "12": {
+                    "hebrew": "\u2020\u2020\u043c\u2026\u0430 \u0434\u2206\u0430\u0405\u043e\u0192\u0439\u0440\u0435\u045b \u043e\u00ab\u043c\u0458\u043b\u2248\u0439-\u0430\u2206\u0448\u2206\u0445, \u0435\u043b\u043c (\u043b\u045b\u2026\u043c) \u0439\u2026\u0449\u2014\u0458\u0431\u2248\u0439 \u044a\u2248\u0431\u2248\u043c:\u2020 \u043b\u045b\u0192\u0439 \u0439\u00bb\u0431\u2026\u0430 \u0446\u00ab\u0448 \u0435\u0458\u0430\u0435\u2026\u0439\u2248\u0431, \u0431\u045b\u0458\u0449\u2014\u00ab\u0442\u00ac\u0448\u2248\u0439 \u0439\u0458\u0448\u0435\u045b\u0449\u2014\u00bb\u043c\u00bb\u0192\u043d.\u2020 {\u0441}",
+                    "english": "The kings of the earth believed not, neither all the inhabitants of the world, that the adversary and the enemy would enter into the gates of Jerusalem. {S}",
+                    "verseNumber": 12
+                },
+                "13": {
+                    "hebrew": "\u2020\u2020\u043e\u2248\u0437\u00ab\u0438\u045b\u2026\u0430\u0435\u044a \u0440\u0458\u0431\u0192\u0439\u0430\u2206\u0439\u0434\u00bb, \u0442\u00ac\u0435\u00a0\u0440\u2026\u044a \u043b\u045b\u2026\u0434\u00ac\u0440\u2206\u0439\u0434\u00bb:\u2020 \u0434\u00ab\u0449\u045b\u2014\u2026\u0444\u0458\u043b\u0192\u0439\u043d \u0431\u045b\u0458\u0447\u0192\u0448\u0458\u0431\u045b\u00bb\u0434\u045b, \u0433\u045b\u00ab\u043d \u0446\u00ab\u0433\u045b\u0192\u0439\u0447\u0192\u0439\u043d.\u2020 {\u0441}",
+                    "english": "It is because of the sins of her prophets, and the iniquities of her priests, that have shed the blood of the just in the midst of her. {S}",
+                    "verseNumber": 13
+                },
+                "14": {
+                    "hebrew": "\u2020\u2020\u0440\u00bb\u0442\u0435\u045b \u0442\u0192\u0435\u0458\u0448\u0192\u0439\u043d \u0431\u045b\u00ab\u0437\u0435\u045b\u0446\u0435\u2026\u044a, \u0440\u0458\u0432\u2026\u0430\u00ac\u043c\u0435\u045b \u0431\u045b\u00ab\u0433\u045b\u00bb\u043d; \u0431\u045b\u0458\u043c\u2026\u0430 \u0439\u0435\u045b\u043b\u0458\u043c\u0435\u045b, \u0439\u0192\u0432\u045b\u0458\u0442\u0435\u045b \u0431\u045b\u0192\u043c\u0458\u0431\u040b\u0449\u2014\u2248\u0439\u0434\u2206\u043d.\u2020 {\u0441}",
+                    "english": "They wander as blind men in the streets, they are polluted with blood, so that men cannot touch their garments. {S}",
+                    "verseNumber": 14
+                },
+                "15": {
+                    "hebrew": "\u2020\u2020\u0441\u0435\u045b\u0448\u0435\u045b \u0438\u00bb\u043e\u2248\u0430 \u0447\u00bb\u0448\u0458\u0430\u0435\u045b \u043c\u00bb\u043e\u0435\u2026, \u0441\u0435\u045b\u0448\u0435\u045b \u0441\u0435\u045b\u0448\u0435\u045b \u0430\u00ab\u043c-\u044a\u045b\u0192\u0432\u045b\u00bb\u0442\u0435\u045b--\u043b\u045b\u0192\u0439 \u0440\u00bb\u0446\u0435\u045b, \u0432\u045b\u00ab\u043d-\u0440\u00bb\u0442\u0435\u045b; \u0430\u00bb\u043e\u0458\u0448\u0435\u045b, \u0431\u045b\u00ab\u0432\u045b\u0435\u2026\u0439\u0192\u043d, \u043c\u2026\u0430 \u0439\u0435\u2026\u0441\u0192\u0444\u0435\u045b, \u043c\u00bb\u0432\u0435\u045b\u0448.\u2020 {\u0441}",
+                    "english": "'Depart ye! unclean!' men cried unto them, 'Depart, depart, touch not'; yea, they fled away and wandered; men said among the nations: 'They shall no more sojourn here.' {S}",
+                    "verseNumber": 15
+                },
+                "16": {
+                    "hebrew": "\u2020\u2020\u0444\u045b\u0458\u0440\u2248\u0439 \u0439\u0458\u0434\u0435\u00bb\u0434 \u0437\u0192\u043c\u045b\u0458\u0447\u00bb\u043d, \u043c\u2026\u0430 \u0439\u0435\u2026\u0441\u0192\u0439\u0443 \u043c\u0458\u0434\u00ab\u0431\u045b\u0192\u0439\u0438\u00bb\u043d; \u0444\u045b\u0458\u0440\u2248\u0439 \u043b\u2026\u0434\u00ac\u0440\u0192\u0439\u043d \u043c\u2026\u0430 \u0440\u00bb\u0449\u201c\u00bb\u0430\u0435\u045b, \u0436\u0447\u0440\u0439\u043d (\u0435\u045b\u0436\u0458\u0447\u2248\u0440\u0192\u0439\u043d) \u043c\u2026\u0430 \u0437\u00bb\u0440\u00bb\u0440\u0435\u045b.\u2020 {\u0441}",
+                    "english": "The anger of the LORD hath divided them; He will no more regard them; they respected not the persons of the priests, they were not gracious unto the elders. {S}",
+                    "verseNumber": 16
+                },
+                "17": {
+                    "hebrew": "\u2020\u2020\u0442\u0435\u0433\u0439\u0440\u0434 (\u0442\u0435\u2026\u0433\u2248\u0439\u0440\u0435\u045b) \u044a\u045b\u0192\u043b\u0458\u043c\u2206\u0439\u0440\u00bb\u0434 \u0442\u2248\u0439\u0440\u2248\u0439\u0440\u0435\u045b, \u0430\u2206\u043c-\u0442\u2206\u0436\u0458\u0448\u00bb\u044a\u2248\u0440\u0435\u045b \u0434\u00bb\u0431\u2206\u043c; \u0431\u045b\u0458\u0446\u0192\u0444\u045b\u0192\u0439\u045b\u00bb\u044a\u2248\u0440\u0435\u045b \u0446\u0192\u0444\u045b\u0192\u0439\u0440\u0435\u045b, \u0430\u2206\u043c-\u0432\u045b\u0435\u2026\u0439 \u043c\u2026\u0430 \u0439\u0435\u2026\u0449\u2014\u0192\u0442\u00ab.\u2020 {\u0441}",
+                    "english": "As for us, our eyes do yet fail for our vain help; in our watching we have watched for a nation that could not save. {S}",
+                    "verseNumber": 17
+                },
+                "18": {
+                    "hebrew": "\u2020\u2020\u0446\u00bb\u0433\u0435\u045b \u0446\u0458\u0442\u00bb\u0433\u2248\u0439\u0440\u0435\u045b, \u043e\u0192\u043c\u045b\u2206\u043b\u2206\u044a \u0431\u045b\u0192\u0448\u0458\u0437\u2026\u0431\u2026\u044a\u2248\u0439\u0440\u0435\u045b; \u0447\u00bb\u0448\u00ab\u0431 \u0447\u0192\u0446\u045b\u2248\u0440\u0435\u045b \u043e\u00bb\u043c\u0458\u0430\u0435\u045b \u0439\u00bb\u043e\u2248\u0439\u0440\u0435\u045b, \u043b\u045b\u0192\u0439-\u0431\u00bb\u0430 \u0447\u0192\u0446\u045b\u2248\u0440\u0435\u045b.\u2020 {\u0441}",
+                    "english": "They hunt our steps, that we cannot go in our broad places; our end is near, our days are fulfilled; for our end is come. {S}",
+                    "verseNumber": 18
+                },
+                "19": {
+                    "hebrew": "\u2020\u2020\u0447\u00ab\u043c\u045b\u0192\u0439\u043d \u0434\u00bb\u0439\u0435\u045b \u0448\u2026\u0433\u0458\u0444\u2248\u0439\u0440\u0435\u045b, \u043e\u0192\u0440\u045b\u0192\u0449\u2014\u0458\u0448\u2248\u0439 \u0449\u2014\u00bb\u043e\u00bb\u0439\u0192\u043d; \u0442\u00ab\u043c-\u0434\u2206\u0434\u00bb\u0448\u0192\u0439\u043d \u0433\u045b\u0458\u043c\u00bb\u0447\u040b\u0440\u0435\u045b, \u0431\u045b\u00ab\u043e\u045b\u0192\u0433\u0458\u0431\u045b\u00bb\u0448 \u0430\u00bb\u0448\u0458\u0431\u0435\u045b \u043c\u00bb\u0440\u0435\u045b.\u2020 {\u0441}",
+                    "english": "Our pursuers were swifter than the eagles of the heaven; they chased us upon the mountains, they lay in wait for us in the wilderness. {S}",
+                    "verseNumber": 19
+                },
+                "20": {
+                    "hebrew": "\u2020\u2020\u0448\u0435\u045b\u0437\u00ab \u0430\u00ab\u0444\u045b\u2248\u0439\u0440\u0435\u045b \u043e\u0458\u0449\u2014\u0192\u0439\u0437\u00ab \u0439\u0458\u0434\u0435\u00bb\u0434, \u0440\u0192\u043c\u0458\u043b\u045b\u00ab\u0433 \u0431\u045b\u0192\u0449\u2014\u0458\u0437\u0192\u0439\u044a\u0435\u2026\u044a\u00bb\u043d:\u2020 \u0430\u00ac\u0449\u2014\u2206\u0448 \u0430\u00bb\u043e\u00ab\u0448\u0458\u0440\u0435\u045b, \u0431\u045b\u0458\u0446\u0192\u043c\u045b\u0435\u2026 \u0440\u0192\u0437\u0458\u0439\u2206\u0434 \u0431\u00ab\u0432\u045b\u0435\u2026\u0439\u0192\u043d.\u2020 {\u0441}",
+                    "english": "The breath of our nostrils, the anointed of the LORD, was taken in their pits; of whom we said: 'Under his shadow we shall live among the nations.' {S}",
+                    "verseNumber": 20
+                },
+                "21": {
+                    "hebrew": "\u2020\u2020\u0449\u201c\u0192\u0439\u0449\u201c\u0192\u0439 \u0435\u0458\u0449\u201c\u0192\u043e\u0458\u0437\u0192\u0439 \u0431\u045b\u00ab\u044a-\u0430\u0405\u0433\u0435\u2026\u043d, \u0439\u0435\u0449\u0431\u044a\u0439 (\u0439\u0435\u2026\u0449\u2014\u2206\u0431\u2206\u044a) \u0431\u045b\u0458\u0430\u2206\u0448\u2206\u0445 \u0442\u0435\u045b\u0445; \u0432\u045b\u00ab\u043d-\u0442\u00bb\u043c\u00ab\u0439\u0192\u043a\u0458, \u044a\u045b\u00ab\u0442\u00ac\u0431\u00bb\u0448-\u043b\u045b\u0435\u2026\u0441--\u044a\u045b\u0192\u0449\u2014\u0458\u043b\u045b\u0458\u0448\u0192\u0439, \u0435\u0458\u044a\u0192\u044a\u0458\u0442\u00bb\u0448\u0192\u0439.\u2020 {\u0441}",
+                    "english": "Rejoice and be glad, O daughter of Edom, that dwellest in the land of Uz: the cup shall pass over unto thee also; thou shalt be drunken, and shalt make thyself naked. {S}",
+                    "verseNumber": 21
+                },
+                "22": {
+                    "hebrew": "\u2020\u2020\u044a\u045b\u00ab\u043d-\u0442\u00ac\u0435\u00a0\u0440\u2248\u043a\u0458, \u0431\u045b\u00ab\u044a-\u0446\u0192\u0439\u045b\u0435\u2026\u043f--\u043c\u2026\u0430 \u0439\u0435\u2026\u0441\u0192\u0439\u0443, \u043c\u0458\u0434\u00ab\u0432\u0458\u043c\u0435\u2026\u044a\u2248\u043a\u0458; \u0444\u045b\u00bb\u0447\u00ab\u0433 \u0442\u00ac\u0435\u00a0\u0440\u2248\u043a\u0458 \u0431\u045b\u00ab\u044a-\u0430\u0405\u0433\u0435\u2026\u043d, \u0432\u045b\u0192\u043c\u045b\u00bb\u0434 \u0442\u00ab\u043c-\u0437\u00ab\u0438\u045b\u2026\u0430\u044a\u00bb\u0439\u0192\u043a\u0458.\u2020 {\u0444}",
+                    "english": "The punishment of thine iniquity is accomplished, O daughter of Zion, He will no more carry thee away into captivity; He will punish thine iniquity, O daughter of Edom, He will uncover thy sins. {P}",
+                    "verseNumber": 22
+                }
+            },
+            "link": "https://www.mechon-mamre.org/p/pt/pt3204.htm"
+        },
+        "5": {
+            "chapterNumber": 5,
+            "canonicalTitle": "Lamentations Chapter 5",
+            "verses": {
+                "1": {
+                    "hebrew": "\u2020\u2020\u0436\u0458\u043b\u2026\u0448 \u0439\u0458\u0434\u0435\u00bb\u0434 \u043e\u2206\u0434-\u0434\u00bb\u0439\u00bb\u0434 \u043c\u00bb\u0440\u0435\u045b, \u0434\u0431\u0439\u0438 (\u0434\u00ab\u0431\u045b\u0192\u0439\u0438\u00bb\u0434) \u0435\u045b\u0448\u0458\u0430\u2248\u0434 \u0430\u2206\u044a-\u0437\u2206\u0448\u0458\u0444\u045b\u00bb\u044a\u2248\u0440\u0435\u045b.",
+                    "english": "Remember, O LORD, what is come upon us; behold, and see our reproach.",
+                    "verseNumber": 1
+                },
+                "2": {
+                    "hebrew": "\u2020\u2020\u0440\u00ab\u0437\u00ac\u043c\u00bb\u044a\u2248\u0440\u0435\u045b \u0440\u2206\u0434\u2206\u0444\u0458\u043b\u00bb\u0434 \u043c\u0458\u0436\u00bb\u0448\u0192\u0439\u043d, \u0431\u045b\u00bb\u044a\u045b\u2248\u0439\u0440\u0435\u045b \u043c\u0458\u0440\u00bb\u043b\u0458\u0448\u0192\u0439\u043d.",
+                    "english": "Our inheritance is turned unto strangers, our houses unto aliens.",
+                    "verseNumber": 2
+                },
+                "3": {
+                    "hebrew": "\u2020\u2020\u0439\u0458\u044a\u0435\u2026\u043e\u0192\u0439\u043d \u0434\u00bb\u0439\u0192\u0439\u0440\u0435\u045b \u0430\u0439\u043f (\u0435\u0458\u0430\u2248\u0439\u043f) \u0430\u00bb\u0431, \u0430\u0192\u043e\u045b\u2026\u044a\u2248\u0439\u0440\u0435\u045b \u043b\u045b\u0458\u0430\u00ab\u043c\u0458\u043e\u00bb\u0440\u0435\u2026\u044a.",
+                    "english": "We are become orphans and fatherless, our mothers are as widows.",
+                    "verseNumber": 3
+                },
+                "4": {
+                    "hebrew": "\u2020\u2020\u043e\u2248\u0439\u043e\u2248\u0439\u0440\u0435\u045b \u0431\u045b\u0458\u043b\u2206\u0441\u2206\u0443 \u0449\u2014\u00bb\u044a\u0192\u0439\u0440\u0435\u045b, \u0442\u2248\u0446\u2248\u0439\u0440\u0435\u045b \u0431\u045b\u0192\u043e\u0458\u0437\u0192\u0439\u0448 \u0439\u00bb\u0431\u2026\u0430\u0435\u045b.",
+                    "english": "We have drunk our water for money; our wood cometh to us for price.",
+                    "verseNumber": 4
+                },
+                "5": {
+                    "hebrew": "\u2020\u2020\u0442\u00ab\u043c \u0446\u00ab\u0435\u045b\u00bb\u0430\u0448\u2248\u0440\u0435\u045b \u0440\u0192\u0448\u0458\u0433\u045b\u00bb\u0444\u0458\u0440\u0435\u045b, \u0439\u00bb\u0432\u00ab\u0442\u0458\u0440\u0435\u045b \u043c\u0430 (\u0435\u0458\u043c\u2026\u0430) \u0434\u0435\u045b\u0440\u00ab\u0437-\u043c\u00bb\u0440\u0435\u045b.",
+                    "english": "To our very necks we are pursued; we labour, and have no rest.",
+                    "verseNumber": 5
+                },
+                "6": {
+                    "hebrew": "\u2020\u2020\u043e\u0192\u0446\u0458\u0448\u00ab\u0439\u0192\u043d \u0440\u00bb\u044a\u00ab\u0440\u045b\u0435\u045b \u0439\u00bb\u0433, \u0430\u00ab\u0449\u045b\u2014\u0435\u045b\u0448 \u043c\u0192\u0449\u201c\u0458\u0431\u045b\u2026\u0442\u00ab \u043c\u00bb\u0437\u2206\u043d.",
+                    "english": "We have given the hand to Egypt, and to Assyria, to have bread enough;",
+                    "verseNumber": 6
+                },
+                "7": {
+                    "hebrew": "\u2020\u2020\u0430\u00ac\u0431\u2026\u044a\u2248\u0439\u0440\u0435\u045b \u0437\u00bb\u0438\u0458\u0430\u0435\u045b \u0430\u0439\u0440\u043d (\u0435\u0458\u0430\u2248\u0439\u0440\u00bb\u043d), \u0430\u0440\u0437\u0440\u0435 (\u0435\u00ab\u0430\u00ac\u0440\u00ab\u0437\u0458\u0440\u0435\u045b) \u0442\u00ac\u0435\u00a0\u0440\u2026\u044a\u2248\u0439\u0434\u2206\u043d \u0441\u00bb\u0431\u00bb\u043c\u0458\u0440\u0435\u045b.",
+                    "english": "Our fathers have sinned, and are not; and we have borne their iniquities.",
+                    "verseNumber": 7
+                },
+                "8": {
+                    "hebrew": "\u2020\u2020\u0442\u00ac\u0431\u00bb\u0433\u0192\u0439\u043d \u043e\u00bb\u0449\u2014\u0458\u043c\u0435\u045b \u0431\u00bb\u0440\u0435\u045b, \u0444\u045b\u2026\u0448\u2248\u0447 \u0430\u2248\u0439\u043f \u043e\u0192\u0439\u045b\u00bb\u0433\u00bb\u043d.",
+                    "english": "Servants rule over us; there is none to deliver us out of their hand.",
+                    "verseNumber": 8
+                },
+                "9": {
+                    "hebrew": "\u2020\u2020\u0431\u045b\u0458\u0440\u00ab\u0444\u0458\u0449\u2014\u2248\u0440\u0435\u045b \u0440\u00bb\u0431\u0192\u0439\u0430 \u043c\u00ab\u0437\u0458\u043e\u2248\u0440\u0435\u045b, \u043e\u0192\u0444\u045b\u0458\u0440\u2248\u0439 \u0437\u2206\u0448\u2206\u0431 \u0434\u00ab\u043e\u045b\u0192\u0433\u0458\u0431\u045b\u00bb\u0448.",
+                    "english": "We get our bread with the peril of our lives because of the sword of the wilderness.",
+                    "verseNumber": 9
+                },
+                "10": {
+                    "hebrew": "\u2020\u2020\u0442\u0435\u2026\u0448\u2248\u0440\u0435\u045b \u043b\u045b\u0458\u044a\u00ab\u0440\u045b\u0435\u045b\u0448 \u0440\u0192\u043b\u0458\u043e\u00bb\u0448\u0435\u045b, \u043e\u0192\u0444\u045b\u0458\u0440\u2248\u0439 \u0436\u00ab\u043c\u0458\u0442\u00ac\u0444\u0435\u2026\u044a \u0448\u00bb\u0442\u00bb\u0431.",
+                    "english": "Our skin is hot like an oven because of the burning heat of famine.",
+                    "verseNumber": 10
+                },
+                "11": {
+                    "hebrew": "\u2020\u2020\u0440\u00bb\u0449\u2014\u0192\u0439\u043d \u0431\u045b\u0458\u0446\u0192\u0439\u045b\u0435\u2026\u043f \u0442\u0192\u0440\u045b\u0435\u045b, \u0431\u045b\u0458\u044a\u040b\u043c\u2026\u044a \u0431\u045b\u0458\u0442\u00bb\u0448\u2248\u0439 \u0439\u0458\u0434\u0435\u045b\u0433\u00bb\u0434.",
+                    "english": "They have ravished the women in Zion, the maidens in the cities of Judah.",
+                    "verseNumber": 11
+                },
+                "12": {
+                    "hebrew": "\u2020\u2020\u0449\u201c\u00bb\u0448\u0192\u0439\u043d \u0431\u045b\u0458\u0439\u00bb\u0433\u00bb\u043d \u0440\u0192\u044a\u0458\u043c\u0435\u045b, \u0444\u045b\u0458\u0440\u2248\u0439 \u0436\u0458\u0447\u2248\u0440\u0192\u0439\u043d \u043c\u2026\u0430 \u0440\u2206\u0434\u0458\u0433\u045b\u00bb\u0448\u0435\u045b.",
+                    "english": "Princes are hanged up by their hand; the faces of elders are not honoured.",
+                    "verseNumber": 12
+                },
+                "13": {
+                    "hebrew": "\u2020\u2020\u0431\u045b\u00ab\u0437\u0435\u045b\u0448\u0192\u0439\u043d \u0438\u0458\u0437\u0435\u2026\u043f \u0440\u00bb\u0449\u201c\u00bb\u0430\u0435\u045b, \u0435\u045b\u0440\u0458\u0442\u00bb\u0448\u0192\u0439\u043d \u0431\u045b\u00bb\u0442\u2248\u0445 \u043b\u045b\u00bb\u0449\u2014\u00bb\u043c\u0435\u045b.",
+                    "english": "The young men have borne the mill, and the children have stumbled under the wood.",
+                    "verseNumber": 13
+                },
+                "14": {
+                    "hebrew": "\u2020\u2020\u0436\u0458\u0447\u2248\u0440\u0192\u0439\u043d \u043e\u0192\u0449\u045b\u2014\u00ab\u0442\u00ab\u0448 \u0449\u2014\u00bb\u0431\u00bb\u044a\u0435\u045b, \u0431\u045b\u00ab\u0437\u0435\u045b\u0448\u0192\u0439\u043d \u043e\u0192\u0440\u045b\u0458\u0432\u0192\u0439\u0440\u00bb\u044a\u00bb\u043d.",
+                    "english": "The elders have ceased from the gate, the young men from their music.",
+                    "verseNumber": 14
+                },
+                "15": {
+                    "hebrew": "\u2020\u2020\u0449\u2014\u00bb\u0431\u00ab\u044a \u043e\u0458\u0449\u201c\u0435\u2026\u0449\u201c \u043c\u0192\u0431\u045b\u2248\u0440\u0435\u045b, \u0440\u2206\u0434\u0458\u0444\u045b\u00ab\u043a\u0458 \u043c\u0458\u0430\u2248\u0431\u2206\u043c \u043e\u0458\u0437\u2026\u043c\u2248\u0440\u0435\u045b.",
+                    "english": "The joy of our heart is ceased; our dance is turned into mourning.",
+                    "verseNumber": 15
+                },
+                "16": {
+                    "hebrew": "\u2020\u2020\u0440\u00bb\u0444\u0458\u043c\u00bb\u0434 \u0442\u00ac\u0438\u2206\u0448\u2206\u044a \u0448\u2026\u0430\u0449\u2014\u2248\u0440\u0435\u045b, \u0430\u0435\u2026\u0439-\u0440\u00bb\u0430 \u043c\u00bb\u0440\u0435\u045b \u043b\u045b\u0192\u0439 \u0437\u00bb\u0438\u00bb\u0430\u0440\u0435\u045b.",
+                    "english": "The crown is fallen from our head; woe unto us! for we have sinned.",
+                    "verseNumber": 16
+                },
+                "17": {
+                    "hebrew": "\u2020\u2020\u0442\u00ab\u043c-\u0436\u2206\u0434, \u0434\u00bb\u0439\u00bb\u0434 \u0433\u00bb\u0435\u2206\u0434 \u043c\u0192\u0431\u045b\u2248\u0440\u0435\u045b--\u0442\u00ab\u043c-\u0430\u2248\u043c\u045b\u2206\u0434, \u0437\u00bb\u0449\u2014\u0458\u043b\u0435\u045b \u0442\u2248\u0439\u0440\u2248\u0439\u0440\u0435\u045b.",
+                    "english": "For this our heart is faint, for these things our eyes are dim;",
+                    "verseNumber": 17
+                },
+                "18": {
+                    "hebrew": "\u2020\u2020\u0442\u00ab\u043c \u0434\u00ab\u0448-\u0446\u0192\u0439\u045b\u0435\u2026\u043f \u0449\u2014\u2206\u0449\u045b\u2014\u00bb\u043e\u2248\u043d, \u0449\u2014\u0435\u045b\u0442\u00bb\u043c\u0192\u0439\u043d \u0434\u0192\u043c\u045b\u0458\u043b\u0435\u045b-\u0431\u0435\u2026.\u2020 {\u0444}",
+                    "english": "For the mountain of Zion, which is desolate, the foxes walk upon it. {P}",
+                    "verseNumber": 18
+                },
+                "19": {
+                    "hebrew": "\u2020\u2020\u0430\u00ab\u044a\u045b\u00bb\u0434 \u0439\u0458\u0434\u0435\u00bb\u0434 \u043c\u0458\u0442\u0435\u2026\u043c\u00bb\u043d \u044a\u045b\u2248\u0449\u2014\u2248\u0431, \u043b\u045b\u0192\u0441\u0458\u0430\u00ac\u043a\u00bb \u043c\u0458\u0433\u0435\u2026\u0448 \u0435\u00bb\u0433\u0435\u2026\u0448.",
+                    "english": "Thou, O LORD, art enthroned for ever, Thy throne is from generation to generation.",
+                    "verseNumber": 19
+                },
+                "20": {
+                    "hebrew": "\u2020\u2020\u043c\u00bb\u043e\u045b\u00bb\u0434 \u043c\u00bb\u0440\u2206\u0446\u00ab\u0437 \u044a\u045b\u0192\u0449\u2014\u0458\u043b\u045b\u00bb\u0437\u2248\u0440\u0435\u045b, \u044a\u045b\u00ab\u0442\u00ab\u0436\u0458\u0431\u2248\u0440\u0435\u045b \u043c\u0458\u0430\u2026\u0448\u2206\u043a\u0458 \u0439\u00bb\u043e\u0192\u0439\u043d.",
+                    "english": "Wherefore dost Thou forget us for ever, and forsake us so long time?",
+                    "verseNumber": 20
+                },
+                "21": {
+                    "hebrew": "\u2020\u2020\u0434\u00ac\u0449\u2014\u0192\u0439\u0431\u2248\u0440\u0435\u045b \u0439\u0458\u0434\u0435\u00bb\u0434 \u0430\u2248\u043c\u2206\u0439\u043a\u00bb \u0435\u0440\u0449\u0435\u0431 (\u0435\u0458\u0440\u00bb\u0449\u2014\u0435\u045b\u0431\u00bb\u0434), \u0437\u00ab\u0433\u045b\u2248\u0449\u2014 \u0439\u00bb\u043e\u2248\u0439\u0440\u0435\u045b \u043b\u045b\u0458\u0447\u2206\u0433\u2206\u043d.",
+                    "english": "Turn Thou us unto Thee, O LORD, and we shall be turned; renew our days as of old.",
+                    "verseNumber": 21
+                },
+                "22": {
+                    "hebrew": "\u2020\u2020\u043b\u045b\u0192\u0439 \u0430\u0192\u043d-\u043e\u00bb\u0430\u2026\u0441 \u043e\u0458\u0430\u00ab\u0441\u0458\u044a\u045b\u00bb\u0440\u0435\u045b, \u0447\u00bb\u0446\u00ab\u0444\u0458\u044a\u045b\u00bb \u0442\u00bb\u043c\u2248\u0439\u0440\u0435\u045b \u0442\u00ab\u0433-\u043e\u0458\u0430\u2026\u0433.\u2020 {\u0449}",
+                    "english": "Thou canst not have utterly rejected us, and be exceeding wroth against us! {P}",
+                    "verseNumber": 22
+                }
+            },
+            "link": "https://www.mechon-mamre.org/p/pt/pt3205.htm"
+        },
+        "1": {
+            "chapterNumber": 1,
+            "canonicalTitle": "Lamentations Chapter 1",
+            "verses": {
+                "1": {
+                    "hebrew": "\u05d0\u05b5\u05d9\u05db\u05b8\u05d4 \u05d9\u05b8\u05e9\u05c1\u05b0\u05d1\u05b8\u05d4 \u05d1\u05b8\u05d3\u05b8\u05d3, \u05d4\u05b8\u05e2\u05b4\u05d9\u05e8 \u05e8\u05b7\u05d1\u05bc\u05b8\u05ea\u05b4\u05d9 \u05e2\u05b8\u05dd--\u05d4\u05b8\u05d9\u05b0\u05ea\u05b8\u05d4, \u05db\u05bc\u05b0\u05d0\u05b7\u05dc\u05b0\u05de\u05b8\u05e0\u05b8\u05d4; \u05e8\u05b7\u05d1\u05bc\u05b8\u05ea\u05b4\u05d9 \u05d1\u05b7\u05d2\u05bc\u05d5\u05b9\u05d9\u05b4\u05dd, \u05e9\u05c2\u05b8\u05e8\u05b8\u05ea\u05b4\u05d9 \u05d1\u05bc\u05b7\u05de\u05bc\u05b0\u05d3\u05b4\u05d9\u05e0\u05d5\u05b9\u05ea--\u05d4\u05b8\u05d9\u05b0\u05ea\u05b8\u05d4, \u05dc\u05b8\u05de\u05b7\u05e1.\u00a0 {\u05e1}",
+                    "english": "How doth the city sit solitary, that was full of people! How is she become as a widow! She that was great among the nations, and princess among the provinces, how is she become tributary! {S}",
+                    "verseNumber": 1
+                },
+                "2": {
+                    "hebrew": "\u05d1\u05bc\u05b8\u05db\u05d5\u05b9 \u05ea\u05b4\u05d1\u05b0\u05db\u05bc\u05b6\u05d4 \u05d1\u05bc\u05b7\u05dc\u05bc\u05b7\u05d9\u05b0\u05dc\u05b8\u05d4, \u05d5\u05b0\u05d3\u05b4\u05de\u05b0\u05e2\u05b8\u05ea\u05b8\u05d4\u05bc \u05e2\u05b7\u05dc \u05dc\u05b6\u05d7\u05b1\u05d9\u05b8\u05d4\u05bc--\u05d0\u05b5\u05d9\u05df-\u05dc\u05b8\u05d4\u05bc \u05de\u05b0\u05e0\u05b7\u05d7\u05b5\u05dd, \u05de\u05b4\u05db\u05bc\u05b8\u05dc-\u05d0\u05b9\u05d4\u05b2\u05d1\u05b6\u05d9\u05d4\u05b8:\u00a0 \u05db\u05bc\u05b8\u05dc-\u05e8\u05b5\u05e2\u05b6\u05d9\u05d4\u05b8 \u05d1\u05bc\u05b8\u05d2\u05b0\u05d3\u05d5\u05bc \u05d1\u05b8\u05d4\u05bc, \u05d4\u05b8\u05d9\u05d5\u05bc \u05dc\u05b8\u05d4\u05bc \u05dc\u05b0\u05d0\u05b9\u05d9\u05b0\u05d1\u05b4\u05d9\u05dd.\u00a0 {\u05e1}",
+                    "english": "She weepeth sore in the night, and her tears are on her cheeks; she hath none to comfort her among all her lovers; all her friends have dealt treacherously with her, they are become her enemies. {S}",
+                    "verseNumber": 2
+                },
+                "3": {
+                    "hebrew": "\u05d2\u05bc\u05b8\u05dc\u05b0\u05ea\u05b8\u05d4 \u05d9\u05b0\u05d4\u05d5\u05bc\u05d3\u05b8\u05d4 \u05de\u05b5\u05e2\u05b9\u05e0\u05b4\u05d9, \u05d5\u05bc\u05de\u05b5\u05e8\u05b9\u05d1 \u05e2\u05b2\u05d1\u05b9\u05d3\u05b8\u05d4--\u05d4\u05b4\u05d9\u05d0 \u05d9\u05b8\u05e9\u05c1\u05b0\u05d1\u05b8\u05d4 \u05d1\u05b7\u05d2\u05bc\u05d5\u05b9\u05d9\u05b4\u05dd, \u05dc\u05b9\u05d0 \u05de\u05b8\u05e6\u05b0\u05d0\u05b8\u05d4 \u05de\u05b8\u05e0\u05d5\u05b9\u05d7\u05b7; \u05db\u05bc\u05b8\u05dc-\u05e8\u05b9\u05d3\u05b0\u05e4\u05b6\u05d9\u05d4\u05b8 \u05d4\u05b4\u05e9\u05bc\u05c2\u05b4\u05d9\u05d2\u05d5\u05bc\u05d4\u05b8, \u05d1\u05bc\u05b5\u05d9\u05df \u05d4\u05b7\u05de\u05bc\u05b0\u05e6\u05b8\u05e8\u05b4\u05d9\u05dd.\u00a0 {\u05e1}",
+                    "english": "Judah is gone into exile because of affliction, and because of great servitude; she dwelleth among the nations, she findeth no rest; all her pursuers overtook her within the straits. {S}",
+                    "verseNumber": 3
+                },
+                "4": {
+                    "hebrew": "\u05d3\u05bc\u05b7\u05e8\u05b0\u05db\u05b5\u05d9 \u05e6\u05b4\u05d9\u05bc\u05d5\u05b9\u05df \u05d0\u05b2\u05d1\u05b5\u05dc\u05d5\u05b9\u05ea, \u05de\u05b4\u05d1\u05bc\u05b0\u05dc\u05b4\u05d9 \u05d1\u05bc\u05b8\u05d0\u05b5\u05d9 \u05de\u05d5\u05b9\u05e2\u05b5\u05d3--\u05db\u05bc\u05b8\u05dc-\u05e9\u05c1\u05b0\u05e2\u05b8\u05e8\u05b6\u05d9\u05d4\u05b8 \u05e9\u05c1\u05d5\u05b9\u05de\u05b5\u05de\u05b4\u05d9\u05df, \u05db\u05bc\u05b9\u05d4\u05b2\u05e0\u05b6\u05d9\u05d4\u05b8 \u05e0\u05b6\u05d0\u05b1\u05e0\u05b8\u05d7\u05b4\u05d9\u05dd; \u05d1\u05bc\u05b0\u05ea\u05d5\u05bc\u05dc\u05b9\u05ea\u05b6\u05d9\u05d4\u05b8 \u05e0\u05bc\u05d5\u05bc\u05d2\u05d5\u05b9\u05ea, \u05d5\u05b0\u05d4\u05b4\u05d9\u05d0 \u05de\u05b7\u05e8-\u05dc\u05b8\u05d4\u05bc.\u00a0 {\u05e1}",
+                    "english": "The ways of Zion do mourn, because none come to the solemn assembly; all her gates are desolate, her priests sigh; her virgins are afflicted, and she herself is in bitterness. {S}",
+                    "verseNumber": 4
+                },
+                "5": {
+                    "hebrew": "\u05d4\u05b8\u05d9\u05d5\u05bc \u05e6\u05b8\u05e8\u05b6\u05d9\u05d4\u05b8 \u05dc\u05b0\u05e8\u05b9\u05d0\u05e9\u05c1 \u05d0\u05b9\u05d9\u05b0\u05d1\u05b6\u05d9\u05d4\u05b8 \u05e9\u05c1\u05b8\u05dc\u05d5\u05bc, \u05db\u05bc\u05b4\u05d9-\u05d9\u05b0\u05d4\u05d5\u05b8\u05d4 \u05d4\u05d5\u05b9\u05d2\u05b8\u05d4\u05bc \u05e2\u05b7\u05dc \u05e8\u05b9\u05d1-\u05e4\u05bc\u05b0\u05e9\u05c1\u05b8\u05e2\u05b6\u05d9\u05d4\u05b8; \u05e2\u05d5\u05b9\u05dc\u05b8\u05dc\u05b6\u05d9\u05d4\u05b8 \u05d4\u05b8\u05dc\u05b0\u05db\u05d5\u05bc \u05e9\u05c1\u05b0\u05d1\u05b4\u05d9, \u05dc\u05b4\u05e4\u05b0\u05e0\u05b5\u05d9-\u05e6\u05b8\u05e8.\u00a0 {\u05e1}",
+                    "english": "Her adversaries are become the head, her enemies are at ease; for the LORD hath afflicted her for the multitude of her transgressions; her young children are gone into captivity before the adversary. {S}",
+                    "verseNumber": 5
+                },
+                "6": {
+                    "hebrew": "\u05d5\u05b7\u05d9\u05bc\u05b5\u05e6\u05b5\u05d0 \u05de\u05df \u05d1\u05ea- (\u05de\u05b4\u05d1\u05bc\u05b7\u05ea-) \u05e6\u05b4\u05d9\u05bc\u05d5\u05b9\u05df, \u05db\u05bc\u05b8\u05dc-\u05d4\u05b2\u05d3\u05b8\u05e8\u05b8\u05d4\u05bc; \u05d4\u05b8\u05d9\u05d5\u05bc \u05e9\u05c2\u05b8\u05e8\u05b6\u05d9\u05d4\u05b8, \u05db\u05bc\u05b0\u05d0\u05b7\u05d9\u05bc\u05b8\u05dc\u05b4\u05d9\u05dd \u05dc\u05b9\u05d0-\u05de\u05b8\u05e6\u05b0\u05d0\u05d5\u05bc \u05de\u05b4\u05e8\u05b0\u05e2\u05b6\u05d4, \u05d5\u05b7\u05d9\u05bc\u05b5\u05dc\u05b0\u05db\u05d5\u05bc \u05d1\u05b0\u05dc\u05b9\u05d0-\u05db\u05b9\u05d7\u05b7, \u05dc\u05b4\u05e4\u05b0\u05e0\u05b5\u05d9 \u05e8\u05d5\u05b9\u05d3\u05b5\u05e3.\u00a0 {\u05e1}",
+                    "english": "And gone is from the daughter of Zion all her splendour; her princes are become like harts that find no pasture, and they are gone without strength before the pursuer. {S}",
+                    "verseNumber": 6
+                },
+                "7": {
+                    "hebrew": "\u05d6\u05b8\u05db\u05b0\u05e8\u05b8\u05d4 \u05d9\u05b0\u05e8\u05d5\u05bc\u05e9\u05c1\u05b8\u05dc\u05b7\u05b4\u05dd, \u05d9\u05b0\u05de\u05b5\u05d9 \u05e2\u05b8\u05e0\u05b0\u05d9\u05b8\u05d4\u05bc \u05d5\u05bc\u05de\u05b0\u05e8\u05d5\u05bc\u05d3\u05b6\u05d9\u05d4\u05b8--\u05db\u05bc\u05b9\u05dc \u05de\u05b7\u05d7\u05b2\u05de\u05bb\u05d3\u05b6\u05d9\u05d4\u05b8, \u05d0\u05b2\u05e9\u05c1\u05b6\u05e8 \u05d4\u05b8\u05d9\u05d5\u05bc \u05de\u05b4\u05d9\u05de\u05b5\u05d9 \u05e7\u05b6\u05d3\u05b6\u05dd; \u05d1\u05bc\u05b4\u05e0\u05b0\u05e4\u05b9\u05dc \u05e2\u05b7\u05de\u05bc\u05b8\u05d4\u05bc \u05d1\u05bc\u05b0\u05d9\u05b7\u05d3-\u05e6\u05b8\u05e8, \u05d5\u05b0\u05d0\u05b5\u05d9\u05df \u05e2\u05d5\u05b9\u05d6\u05b5\u05e8 \u05dc\u05b8\u05d4\u05bc--\u05e8\u05b8\u05d0\u05d5\u05bc\u05d4\u05b8 \u05e6\u05b8\u05e8\u05b4\u05d9\u05dd, \u05e9\u05c2\u05b8\u05d7\u05b2\u05e7\u05d5\u05bc \u05e2\u05b7\u05dc \u05de\u05b4\u05e9\u05c1\u05b0\u05d1\u05bc\u05b7\u05ea\u05bc\u05b6\u05d4\u05b8.\u00a0 {\u05e1}",
+                    "english": "Jerusalem remembereth in the days of her affliction and of her anguish all her treasures that she had from the days of old; now that her people fall by the hand of the adversary, and none doth help her, the adversaries have seen her, they have mocked at her desolations. {S}",
+                    "verseNumber": 7
+                },
+                "8": {
+                    "hebrew": "\u05d7\u05b5\u05d8\u05b0\u05d0 \u05d7\u05b8\u05d8\u05b0\u05d0\u05b8\u05d4 \u05d9\u05b0\u05e8\u05d5\u05bc\u05e9\u05c1\u05b8\u05dc\u05b7\u05b4\u05dd, \u05e2\u05b7\u05dc-\u05db\u05bc\u05b5\u05df \u05dc\u05b0\u05e0\u05b4\u05d9\u05d3\u05b8\u05d4 \u05d4\u05b8\u05d9\u05b8\u05ea\u05b8\u05d4; \u05db\u05bc\u05b8\u05dc-\u05de\u05b0\u05db\u05b7\u05d1\u05bc\u05b0\u05d3\u05b6\u05d9\u05d4\u05b8 \u05d4\u05b4\u05d6\u05bc\u05b4\u05d9\u05dc\u05d5\u05bc\u05d4\u05b8 \u05db\u05bc\u05b4\u05d9-\u05e8\u05b8\u05d0\u05d5\u05bc \u05e2\u05b6\u05e8\u05b0\u05d5\u05b8\u05ea\u05b8\u05d4\u05bc, \u05d2\u05bc\u05b7\u05dd-\u05d4\u05b4\u05d9\u05d0 \u05e0\u05b6\u05d0\u05b6\u05e0\u05b0\u05d7\u05b8\u05d4 \u05d5\u05b7\u05ea\u05bc\u05b8\u05e9\u05c1\u05b8\u05d1 \u05d0\u05b8\u05d7\u05d5\u05b9\u05e8.\u00a0 {\u05e1}",
+                    "english": "Jerusalem hath grievously sinned, therefore she is become as one unclean; all that honoured her despise her, because they have seen her nakedness; she herself also sigheth, and turneth backward. {S}",
+                    "verseNumber": 8
+                },
+                "9": {
+                    "hebrew": "\u05d8\u05bb\u05de\u05b0\u05d0\u05b8\u05ea\u05b8\u05d4\u05bc \u05d1\u05bc\u05b0\u05e9\u05c1\u05d5\u05bc\u05dc\u05b6\u05d9\u05d4\u05b8, \u05dc\u05b9\u05d0 \u05d6\u05b8\u05db\u05b0\u05e8\u05b8\u05d4 \u05d0\u05b7\u05d7\u05b2\u05e8\u05b4\u05d9\u05ea\u05b8\u05d4\u05bc, \u05d5\u05b7\u05ea\u05bc\u05b5\u05e8\u05b6\u05d3 \u05e4\u05bc\u05b0\u05dc\u05b8\u05d0\u05b4\u05d9\u05dd, \u05d0\u05b5\u05d9\u05df \u05de\u05b0\u05e0\u05b7\u05d7\u05b5\u05dd \u05dc\u05b8\u05d4\u05bc; \u05e8\u05b0\u05d0\u05b5\u05d4 \u05d9\u05b0\u05d4\u05d5\u05b8\u05d4 \u05d0\u05b6\u05ea-\u05e2\u05b8\u05e0\u05b0\u05d9\u05b4\u05d9, \u05db\u05bc\u05b4\u05d9 \u05d4\u05b4\u05d2\u05b0\u05d3\u05bc\u05b4\u05d9\u05dc \u05d0\u05d5\u05b9\u05d9\u05b5\u05d1.\u00a0 {\u05e1}",
+                    "english": "Her filthiness was in her skirts, she was not mindful of her end; therefore is she come down wonderfully, she hath no comforter. 'Behold, O LORD, my affliction, for the enemy hath magnified himself.' {S}",
+                    "verseNumber": 9
+                },
+                "10": {
+                    "hebrew": "\u05d9\u05b8\u05d3\u05d5\u05b9 \u05e4\u05bc\u05b8\u05e8\u05b7\u05e9\u05c2 \u05e6\u05b8\u05e8, \u05e2\u05b7\u05dc \u05db\u05bc\u05b8\u05dc-\u05de\u05b7\u05d7\u05b2\u05de\u05b7\u05d3\u05bc\u05b6\u05d9\u05d4\u05b8:\u00a0 \u05db\u05bc\u05b4\u05d9-\u05e8\u05b8\u05d0\u05b2\u05ea\u05b8\u05d4 \u05d2\u05d5\u05b9\u05d9\u05b4\u05dd, \u05d1\u05bc\u05b8\u05d0\u05d5\u05bc \u05de\u05b4\u05e7\u05b0\u05d3\u05bc\u05b8\u05e9\u05c1\u05b8\u05d4\u05bc--\u05d0\u05b2\u05e9\u05c1\u05b6\u05e8 \u05e6\u05b4\u05d5\u05bc\u05b4\u05d9\u05ea\u05b8\u05d4, \u05dc\u05b9\u05d0-\u05d9\u05b8\u05d1\u05b9\u05d0\u05d5\u05bc \u05d1\u05b7\u05e7\u05bc\u05b8\u05d4\u05b8\u05dc \u05dc\u05b8\u05da\u05b0.\u00a0 {\u05e1}",
+                    "english": "The adversary hath spread out his hand upon all her treasures; for she hath seen that the heathen are entered into her sanctuary, concerning whom Thou didst command that they should not enter into Thy congregation. {S}",
+                    "verseNumber": 10
+                },
+                "11": {
+                    "hebrew": "\u05db\u05bc\u05b8\u05dc-\u05e2\u05b7\u05de\u05bc\u05b8\u05d4\u05bc \u05e0\u05b6\u05d0\u05b1\u05e0\u05b8\u05d7\u05b4\u05d9\u05dd \u05de\u05b0\u05d1\u05b7\u05e7\u05b0\u05e9\u05c1\u05b4\u05d9\u05dd \u05dc\u05b6\u05d7\u05b6\u05dd, \u05e0\u05b8\u05ea\u05b0\u05e0\u05d5\u05bc \u05de\u05d7\u05de\u05d5\u05d3\u05d9\u05d4\u05dd (\u05de\u05b7\u05d7\u05b2\u05de\u05b7\u05d3\u05bc\u05b5\u05d9\u05d4\u05b6\u05dd) \u05d1\u05bc\u05b0\u05d0\u05b9\u05db\u05b6\u05dc \u05dc\u05b0\u05d4\u05b8\u05e9\u05c1\u05b4\u05d9\u05d1 \u05e0\u05b8\u05e4\u05b6\u05e9\u05c1; \u05e8\u05b0\u05d0\u05b5\u05d4 \u05d9\u05b0\u05d4\u05d5\u05b8\u05d4 \u05d5\u05b0\u05d4\u05b7\u05d1\u05bc\u05b4\u05d9\u05d8\u05b8\u05d4, \u05db\u05bc\u05b4\u05d9 \u05d4\u05b8\u05d9\u05b4\u05d9\u05ea\u05b4\u05d9 \u05d6\u05d5\u05b9\u05dc\u05b5\u05dc\u05b8\u05d4.\u00a0 {\u05e1}",
+                    "english": "All her people sigh, they seek bread; they have given their pleasant things for food to refresh the soul. 'See, O LORD, and behold, how abject I am become.' {S}",
+                    "verseNumber": 11
+                },
+                "12": {
+                    "hebrew": "\u05dc\u05d5\u05b9\u05d0 \u05d0\u05b2\u05dc\u05b5\u05d9\u05db\u05b6\u05dd, \u05db\u05bc\u05b8\u05dc-\u05e2\u05b9\u05d1\u05b0\u05e8\u05b5\u05d9 \u05d3\u05b6\u05e8\u05b6\u05da\u05b0--\u05d4\u05b7\u05d1\u05bc\u05b4\u05d9\u05d8\u05d5\u05bc \u05d5\u05bc\u05e8\u05b0\u05d0\u05d5\u05bc, \u05d0\u05b4\u05dd-\u05d9\u05b5\u05e9\u05c1 \u05de\u05b7\u05db\u05b0\u05d0\u05d5\u05b9\u05d1 \u05db\u05bc\u05b0\u05de\u05b7\u05db\u05b0\u05d0\u05b9\u05d1\u05b4\u05d9 \u05d0\u05b2\u05e9\u05c1\u05b6\u05e8 \u05e2\u05d5\u05b9\u05dc\u05b7\u05dc \u05dc\u05b4\u05d9:\u00a0 \u05d0\u05b2\u05e9\u05c1\u05b6\u05e8 \u05d4\u05d5\u05b9\u05d2\u05b8\u05d4 \u05d9\u05b0\u05d4\u05d5\u05b8\u05d4, \u05d1\u05bc\u05b0\u05d9\u05d5\u05b9\u05dd \u05d7\u05b2\u05e8\u05d5\u05b9\u05df \u05d0\u05b7\u05e4\u05bc\u05d5\u05b9.\u00a0 {\u05e1}",
+                    "english": "'Let it not come unto you, all ye that pass by! Behold, and see if there be any pain like unto my pain, which is done unto me, wherewith the LORD hath afflicted me in the day of His fierce anger. {S}",
+                    "verseNumber": 12
+                },
+                "13": {
+                    "hebrew": "\u05de\u05b4\u05de\u05bc\u05b8\u05e8\u05d5\u05b9\u05dd \u05e9\u05c1\u05b8\u05dc\u05b7\u05d7-\u05d0\u05b5\u05e9\u05c1 \u05d1\u05bc\u05b0\u05e2\u05b7\u05e6\u05b0\u05de\u05b9\u05ea\u05b7\u05d9, \u05d5\u05b7\u05d9\u05bc\u05b4\u05e8\u05b0\u05d3\u05bc\u05b6\u05e0\u05bc\u05b8\u05d4; \u05e4\u05bc\u05b8\u05e8\u05b7\u05e9\u05c2 \u05e8\u05b6\u05e9\u05c1\u05b6\u05ea \u05dc\u05b0\u05e8\u05b7\u05d2\u05b0\u05dc\u05b7\u05d9, \u05d4\u05b1\u05e9\u05c1\u05b4\u05d9\u05d1\u05b7\u05e0\u05b4\u05d9 \u05d0\u05b8\u05d7\u05d5\u05b9\u05e8--\u05e0\u05b0\u05ea\u05b8\u05e0\u05b7\u05e0\u05b4\u05d9 \u05e9\u05c1\u05b9\u05de\u05b5\u05de\u05b8\u05d4, \u05db\u05bc\u05b8\u05dc-\u05d4\u05b7\u05d9\u05bc\u05d5\u05b9\u05dd \u05d3\u05bc\u05b8\u05d5\u05b8\u05d4.\u00a0 {\u05e1}",
+                    "english": "From on high hath He sent fire into my bones, and it prevaileth against them; He hath spread a net for my feet, He hath turned me back; He hath made me desolate and faint all the day. {S}",
+                    "verseNumber": 13
+                },
+                "14": {
+                    "hebrew": "\u05e0\u05b4\u05e9\u05c2\u05b0\u05e7\u05b7\u05d3 \u05e2\u05b9\u05dc \u05e4\u05bc\u05b0\u05e9\u05c1\u05b8\u05e2\u05b7\u05d9 \u05d1\u05bc\u05b0\u05d9\u05b8\u05d3\u05d5\u05b9, \u05d9\u05b4\u05e9\u05c2\u05b0\u05ea\u05bc\u05b8\u05e8\u05b0\u05d2\u05d5\u05bc \u05e2\u05b8\u05dc\u05d5\u05bc \u05e2\u05b7\u05dc-\u05e6\u05b7\u05d5\u05bc\u05b8\u05d0\u05e8\u05b4\u05d9--\u05d4\u05b4\u05db\u05b0\u05e9\u05c1\u05b4\u05d9\u05dc \u05db\u05bc\u05b9\u05d7\u05b4\u05d9; \u05e0\u05b0\u05ea\u05b8\u05e0\u05b7\u05e0\u05b4\u05d9 \u05d0\u05b2\u05d3\u05b9\u05e0\u05b8\u05d9, \u05d1\u05bc\u05b4\u05d9\u05d3\u05b5\u05d9 \u05dc\u05b9\u05d0-\u05d0\u05d5\u05bc\u05db\u05b7\u05dc \u05e7\u05d5\u05bc\u05dd.\u00a0 {\u05e1}",
+                    "english": "The yoke of my transgressions is impressed by His hand; they are knit together, they are come up upon my neck; He hath made my strength to fail; the Lord hath delivered me into their hands, against whom I am not able to stand. {S}",
+                    "verseNumber": 14
+                },
+                "15": {
+                    "hebrew": "\u05e1\u05b4\u05dc\u05bc\u05b8\u05d4 \u05db\u05b8\u05dc-\u05d0\u05b7\u05d1\u05bc\u05b4\u05d9\u05e8\u05b7\u05d9 \u05d0\u05b2\u05d3\u05b9\u05e0\u05b8\u05d9 \u05d1\u05bc\u05b0\u05e7\u05b4\u05e8\u05b0\u05d1\u05bc\u05b4\u05d9, \u05e7\u05b8\u05e8\u05b8\u05d0 \u05e2\u05b8\u05dc\u05b7\u05d9 \u05de\u05d5\u05b9\u05e2\u05b5\u05d3 \u05dc\u05b4\u05e9\u05c1\u05b0\u05d1\u05bc\u05b9\u05e8 \u05d1\u05bc\u05b7\u05d7\u05d5\u05bc\u05e8\u05b8\u05d9; \u05d2\u05bc\u05b7\u05ea \u05d3\u05bc\u05b8\u05e8\u05b7\u05da\u05b0 \u05d0\u05b2\u05d3\u05b9\u05e0\u05b8\u05d9, \u05dc\u05b4\u05d1\u05b0\u05ea\u05d5\u05bc\u05dc\u05b7\u05ea \u05d1\u05bc\u05b7\u05ea-\u05d9\u05b0\u05d4\u05d5\u05bc\u05d3\u05b8\u05d4.\u00a0 {\u05e1}",
+                    "english": "The Lord hath set at nought all my mighty men in the midst of me; He hath called a solemn assembly against me to crush my young men; the Lord hath trodden as in a winepress the virgin the daughter of Judah.' {S}",
+                    "verseNumber": 15
+                },
+                "16": {
+                    "hebrew": "\u05e2\u05b7\u05dc-\u05d0\u05b5\u05dc\u05bc\u05b6\u05d4 \u05d0\u05b2\u05e0\u05b4\u05d9 \u05d1\u05d5\u05b9\u05db\u05b4\u05d9\u05bc\u05b8\u05d4, \u05e2\u05b5\u05d9\u05e0\u05b4\u05d9 \u05e2\u05b5\u05d9\u05e0\u05b4\u05d9 \u05d9\u05b9\u05e8\u05b0\u05d3\u05b8\u05d4 \u05de\u05bc\u05b7\u05d9\u05b4\u05dd--\u05db\u05bc\u05b4\u05d9-\u05e8\u05b8\u05d7\u05b7\u05e7 \u05de\u05b4\u05de\u05bc\u05b6\u05e0\u05bc\u05b4\u05d9 \u05de\u05b0\u05e0\u05b7\u05d7\u05b5\u05dd, \u05de\u05b5\u05e9\u05c1\u05b4\u05d9\u05d1 \u05e0\u05b7\u05e4\u05b0\u05e9\u05c1\u05b4\u05d9; \u05d4\u05b8\u05d9\u05d5\u05bc \u05d1\u05b8\u05e0\u05b7\u05d9 \u05e9\u05c1\u05d5\u05b9\u05de\u05b5\u05de\u05b4\u05d9\u05dd, \u05db\u05bc\u05b4\u05d9 \u05d2\u05b8\u05d1\u05b7\u05e8 \u05d0\u05d5\u05b9\u05d9\u05b5\u05d1.\u00a0 {\u05e1}",
+                    "english": "'For these things I weep; mine eye, mine eye runneth down with water; because the comforter is far from me, even he that should refresh my soul; my children are desolate, because the enemy hath prevailed.' {S}",
+                    "verseNumber": 16
+                },
+                "17": {
+                    "hebrew": "\u05e4\u05bc\u05b5\u05e8\u05b0\u05e9\u05c2\u05b8\u05d4 \u05e6\u05b4\u05d9\u05bc\u05d5\u05b9\u05df \u05d1\u05bc\u05b0\u05d9\u05b8\u05d3\u05b6\u05d9\u05d4\u05b8, \u05d0\u05b5\u05d9\u05df \u05de\u05b0\u05e0\u05b7\u05d7\u05b5\u05dd \u05dc\u05b8\u05d4\u05bc--\u05e6\u05b4\u05d5\u05bc\u05b8\u05d4 \u05d9\u05b0\u05d4\u05d5\u05b8\u05d4 \u05dc\u05b0\u05d9\u05b7\u05e2\u05b2\u05e7\u05b9\u05d1, \u05e1\u05b0\u05d1\u05b4\u05d9\u05d1\u05b8\u05d9\u05d5 \u05e6\u05b8\u05e8\u05b8\u05d9\u05d5; \u05d4\u05b8\u05d9\u05b0\u05ea\u05b8\u05d4 \u05d9\u05b0\u05e8\u05d5\u05bc\u05e9\u05c1\u05b8\u05dc\u05b7\u05b4\u05dd \u05dc\u05b0\u05e0\u05b4\u05d3\u05bc\u05b8\u05d4, \u05d1\u05bc\u05b5\u05d9\u05e0\u05b5\u05d9\u05d4\u05b6\u05dd.\u00a0 {\u05e1}",
+                    "english": "Zion spreadeth forth her hands; there is none to comfort her; the LORD hath commanded concerning Jacob, that they that are round about him should be his adversaries; Jerusalem is among them as one unclean. {S}",
+                    "verseNumber": 17
+                },
+                "18": {
+                    "hebrew": "\u05e6\u05b7\u05d3\u05bc\u05b4\u05d9\u05e7 \u05d4\u05d5\u05bc\u05d0 \u05d9\u05b0\u05d4\u05d5\u05b8\u05d4, \u05db\u05bc\u05b4\u05d9 \u05e4\u05b4\u05d9\u05d4\u05d5\u05bc \u05de\u05b8\u05e8\u05b4\u05d9\u05ea\u05b4\u05d9; \u05e9\u05c1\u05b4\u05de\u05b0\u05e2\u05d5\u05bc-\u05e0\u05b8\u05d0 \u05db\u05b8\u05dc-\u05e2\u05de\u05d9\u05dd (\u05d4\u05b8\u05e2\u05b7\u05de\u05bc\u05b4\u05d9\u05dd), \u05d5\u05bc\u05e8\u05b0\u05d0\u05d5\u05bc \u05de\u05b7\u05db\u05b0\u05d0\u05b9\u05d1\u05b4\u05d9--\u05d1\u05bc\u05b0\u05ea\u05d5\u05bc\u05dc\u05b9\u05ea\u05b7\u05d9 \u05d5\u05bc\u05d1\u05b7\u05d7\u05d5\u05bc\u05e8\u05b7\u05d9, \u05d4\u05b8\u05dc\u05b0\u05db\u05d5\u05bc \u05d1\u05b7\u05e9\u05bc\u05c1\u05b6\u05d1\u05b4\u05d9.\u00a0 {\u05e1}",
+                    "english": "'The LORD is righteous; for I have rebelled against His word; hear, I pray you, all ye peoples, and behold my pain: my virgins and my young men are gone into captivity. {S}",
+                    "verseNumber": 18
+                },
+                "19": {
+                    "hebrew": "\u05e7\u05b8\u05e8\u05b8\u05d0\u05ea\u05b4\u05d9 \u05dc\u05b7\u05de\u05b0\u05d0\u05b7\u05d4\u05b2\u05d1\u05b7\u05d9 \u05d4\u05b5\u05de\u05bc\u05b8\u05d4 \u05e8\u05b4\u05de\u05bc\u05d5\u05bc\u05e0\u05b4\u05d9, \u05db\u05bc\u05b9\u05d4\u05b2\u05e0\u05b7\u05d9 \u05d5\u05bc\u05d6\u05b0\u05e7\u05b5\u05e0\u05b7\u05d9 \u05d1\u05bc\u05b8\u05e2\u05b4\u05d9\u05e8 \u05d2\u05bc\u05b8\u05d5\u05b8\u05e2\u05d5\u05bc:\u00a0 \u05db\u05bc\u05b4\u05d9-\u05d1\u05b4\u05e7\u05b0\u05e9\u05c1\u05d5\u05bc \u05d0\u05b9\u05db\u05b6\u05dc \u05dc\u05b8\u05de\u05d5\u05b9, \u05d5\u05b0\u05d9\u05b8\u05e9\u05c1\u05b4\u05d9\u05d1\u05d5\u05bc \u05d0\u05b6\u05ea-\u05e0\u05b7\u05e4\u05b0\u05e9\u05c1\u05b8\u05dd.\u00a0 {\u05e1}",
+                    "english": "I called for my lovers, but they deceived me; my priests and mine elders perished in the city, while they sought them food to refresh their souls. {S}",
+                    "verseNumber": 19
+                },
+                "20": {
+                    "hebrew": "\u05e8\u05b0\u05d0\u05b5\u05d4 \u05d9\u05b0\u05d4\u05d5\u05b8\u05d4 \u05db\u05bc\u05b4\u05d9-\u05e6\u05b7\u05e8-\u05dc\u05b4\u05d9, \u05de\u05b5\u05e2\u05b7\u05d9 \u05d7\u05b3\u05de\u05b7\u05e8\u05b0\u05de\u05b8\u05e8\u05d5\u05bc--\u05e0\u05b6\u05d4\u05b0\u05e4\u05bc\u05b7\u05da\u05b0 \u05dc\u05b4\u05d1\u05bc\u05b4\u05d9 \u05d1\u05bc\u05b0\u05e7\u05b4\u05e8\u05b0\u05d1\u05bc\u05b4\u05d9, \u05db\u05bc\u05b4\u05d9 \u05de\u05b8\u05e8\u05d5\u05b9 \u05de\u05b8\u05e8\u05b4\u05d9\u05ea\u05b4\u05d9; \u05de\u05b4\u05d7\u05d5\u05bc\u05e5 \u05e9\u05c1\u05b4\u05db\u05bc\u05b0\u05dc\u05b8\u05d4-\u05d7\u05b6\u05e8\u05b6\u05d1, \u05d1\u05bc\u05b7\u05d1\u05bc\u05b7\u05d9\u05b4\u05ea \u05db\u05bc\u05b7\u05de\u05bc\u05b8\u05d5\u05b6\u05ea.\u00a0 {\u05e1}",
+                    "english": "Behold, O LORD, for I am in distress, mine inwards burn; my heart is turned within me, for I have grievously rebelled. Abroad the sword bereaveth, at home there is the like of death. {S}",
+                    "verseNumber": 20
+                },
+                "21": {
+                    "hebrew": "\u05e9\u05c1\u05b8\u05de\u05b0\u05e2\u05d5\u05bc \u05db\u05bc\u05b4\u05d9 \u05e0\u05b6\u05d0\u05b1\u05e0\u05b8\u05d7\u05b8\u05d4 \u05d0\u05b8\u05e0\u05b4\u05d9, \u05d0\u05b5\u05d9\u05df \u05de\u05b0\u05e0\u05b7\u05d7\u05b5\u05dd \u05dc\u05b4\u05d9--\u05db\u05bc\u05b8\u05dc-\u05d0\u05b9\u05d9\u05b0\u05d1\u05b7\u05d9 \u05e9\u05c1\u05b8\u05de\u05b0\u05e2\u05d5\u05bc \u05e8\u05b8\u05e2\u05b8\u05ea\u05b4\u05d9 \u05e9\u05c2\u05b8\u05e9\u05c2\u05d5\u05bc, \u05db\u05bc\u05b4\u05d9 \u05d0\u05b7\u05ea\u05bc\u05b8\u05d4 \u05e2\u05b8\u05e9\u05c2\u05b4\u05d9\u05ea\u05b8; \u05d4\u05b5\u05d1\u05b5\u05d0\u05ea\u05b8 \u05d9\u05d5\u05b9\u05dd-\u05e7\u05b8\u05e8\u05b8\u05d0\u05ea\u05b8, \u05d5\u05b0\u05d9\u05b4\u05d4\u05b0\u05d9\u05d5\u05bc \u05db\u05b8\u05de\u05b9\u05e0\u05b4\u05d9.\u00a0 {\u05e1}",
+                    "english": "They have heard that I sigh, there is none to comfort me; all mine enemies have heard of my trouble, and are glad, for Thou hast done it; Thou wilt bring the day that Thou hast proclaimed, and they shall be like unto me. {S}",
+                    "verseNumber": 21
+                },
+                "22": {
+                    "hebrew": "\u05ea\u05bc\u05b8\u05d1\u05b9\u05d0 \u05db\u05b8\u05dc-\u05e8\u05b8\u05e2\u05b8\u05ea\u05b8\u05dd \u05dc\u05b0\u05e4\u05b8\u05e0\u05b6\u05d9\u05da\u05b8 \u05d5\u05b0\u05e2\u05d5\u05b9\u05dc\u05b5\u05dc \u05dc\u05b8\u05de\u05d5\u05b9, \u05db\u05bc\u05b7\u05d0\u05b2\u05e9\u05c1\u05b6\u05e8 \u05e2\u05d5\u05b9\u05dc\u05b7\u05dc\u05b0\u05ea\u05bc\u05b8 \u05dc\u05b4\u05d9 \u05e2\u05b7\u05dc \u05db\u05bc\u05b8\u05dc-\u05e4\u05bc\u05b0\u05e9\u05c1\u05b8\u05e2\u05b8\u05d9:\u00a0 \u05db\u05bc\u05b4\u05d9-\u05e8\u05b7\u05d1\u05bc\u05d5\u05b9\u05ea \u05d0\u05b7\u05e0\u05b0\u05d7\u05b9\u05ea\u05b7\u05d9, \u05d5\u05b0\u05dc\u05b4\u05d1\u05bc\u05b4\u05d9 \u05d3\u05b7\u05d5\u05bc\u05b8\u05d9.\u00a0 {\u05e4}",
+                    "english": "Let all their wickedness come before Thee; and do unto them, as Thou hast done unto me for all my transgressions; for my sighs are many and my heart is faint.' {P}",
+                    "verseNumber": 22
+                }
+            },
+            "link": "https://www.mechon-mamre.org/p/pt/pt3201.htm"
+        }
+    },
+    "bookName": {
+        "hebrew": "\u05d0\u05b5\u05d9\u05db\u05b8\u05d4",
+        "english": "Lamentations"
+    }
+}
