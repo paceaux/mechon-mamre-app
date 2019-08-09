@@ -1,5 +1,5 @@
 <template>
-  <nav class="nav nav--tanakh">
+  <nav class="nav nav--tanakh" role="region" aria-label="Navigate the Tanakh by Torah, Prophets, and Writings">
     <h2 class="nav__title nav__grid--col-1 nav__grid--row-1">
       Torah
       <button class="nav__listToggle" v-on:click="toggleTorah()">
@@ -7,7 +7,10 @@
         <span v-if="isShowingTorah">&uarr;</span>
       </button>
     </h2>
-    <ul class="nav__list nav__grid--col-1 nav__grid--row-2" v-if="isShowingTorah">
+    <ul class="nav__list nav__grid--col-1 nav__grid--row-2" 
+      v-if="isShowingTorah"
+      aria-label="Books of the Torah"
+      >
       <li
         class="nav__item"
         v-for="name in torahNames"
@@ -23,7 +26,11 @@
         <span v-if="isShowingProphets">&uarr;</span>
       </button>
     </h2>
-    <ul class="nav__list nav__grid--col-2 nav__grid--row-2" v-if="isShowingProphets">
+    <ul
+      class="nav__list nav__grid--col-2 nav__grid--row-2"
+      v-if="isShowingProphets"
+      aria-label="Books of the Prophets"
+      >
       <li
         class="nav__item"
         v-for="name in prophetsNames"

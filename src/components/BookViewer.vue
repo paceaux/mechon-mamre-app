@@ -1,16 +1,19 @@
 <template>
-  <section class="book">
+  <section class="book" role="main">
     <header class="book__header">
       <h1 class="book__bookName" v-if="book && book.bookName">
         <span class="en" lang="en">{{book.bookName.english}}</span>
         <span class="he" lang="he">{{book.bookName.hebrew}}</span>
         </h1>
-      <button v-on:click="toggleChapters()">
+      <button v-on:click="toggleChapters()" v-bind:aria-pressed="isShowingChapters">
         <span v-if="!isShowingChapters">&darr;</span>
         <span v-if="isShowingChapters">&uarr;</span>
       </button>
-      <nav class="nav book__nav nav--chapters" v-if="isShowingChapters">
-        <ul class="nav__list">
+      <nav
+        class="nav book__nav nav--chapters"
+        v-if="isShowingChapters"
+        >
+        <ul class="nav__list" v-bind:aria-label="(`Chapters of ${book.canonicalBookName}`)">
           <li
             class="nav__item"
             v-for="chapter of chapters"

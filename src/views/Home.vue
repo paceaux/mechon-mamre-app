@@ -1,12 +1,12 @@
 <template>
   <div class="bible">
-  <header class="g-header">
+  <header class="g-header" role="banner">
     <Intro msg="JPS Hebrew-english Tanakh"/>
-    <button class="nav__listToggle" v-on:click="toggleBibleNav()">
+    <button class="nav__listToggle" v-on:click="toggleBibleNav()" v-bind:aria-pressed="isShowingBibleNav">
       <span v-if="!isShowingBibleNav">&darr;</span>
       <span v-if="isShowingBibleNav">&uarr;</span>
     </button>
-    <BibleNav v-bind:class="{'nav--collapsed': !isShowingBibleNav }"/>
+    <BibleNav v-bind:class="{'nav--collapsed': !isShowingBibleNav }" role="navigation"/>
   </header>
   <main>
     <BookViewer />

@@ -1,14 +1,16 @@
 <template>
-  <article class="book__chapter chapter" v-if="chapter">
+  <article class="book__chapter chapter" v-if="chapter" role="article" v-bind:aria-label="chapter.canonicalTitle">
     <h2 class="chapter__title">{{chapter.canonicalTitle}}</h2>
     <article
       class="chapter__verse"
       v-for="verse of verses"
       v-bind:key="(`verse-${verse.verseNumber}`)"
+      role="row"
+      v-bind:aria-label="(`Verse ${verse.verseNumber}`)"
       >
       <h3 class="chapter__verseNumber">{{verse.verseNumber}}</h3>
-      <p class="chapter__verseText" lang="en">{{verse.english}}</p>
-      <p class="chapter__verseText" lang="he">{{verse.hebrew}}</p>
+      <p class="chapter__verseText" lang="en" aria-label="english">{{verse.english}}</p>
+      <p class="chapter__verseText" lang="he" aria-label="hebrew">{{verse.hebrew}}</p>
     </article>
   </article>
 </template>
