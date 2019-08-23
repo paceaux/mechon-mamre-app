@@ -3,9 +3,9 @@
     role="region"
     aria-label="Navigate the Tanakh by Torah, Prophets, and Writings">
 
-    <GroupNav readableGroupName="Torah" dataGroupName="torah" />
-    <GroupNav readableGroupName="Prophets" dataGroupName="prophets" />
-    <GroupNav readableGroupName="Writings" dataGroupName="writings" />
+    <GroupNav class="nav__group"  readableGroupName="Torah" dataGroupName="torah" />
+    <GroupNav class="nav__group" readableGroupName="Prophets" dataGroupName="prophets" />
+    <GroupNav class="nav__group" readableGroupName="Writings" dataGroupName="writings" />
   </nav>
 </template>
 <script>
@@ -61,14 +61,18 @@ export default {
 }
 
 .nav--tanakh {
-  display: grid;
-  grid-template-rows: 2rem 8rem;
-  grid-template-columns: 1fr 1fr 1fr;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 .nav--collapsed {
   height: 0;
   overflow: hidden;
+}
+
+.nav__group {
+  flex-basis: 12rem;
 }
 
 .nav__grid--row-1 {
@@ -95,6 +99,7 @@ export default {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
+  max-height: 12em;
 }
 
 .nav__item {
