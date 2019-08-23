@@ -18,35 +18,13 @@ export default {
   },
   data() {
     return {
-      isShowingTorah: true,
-      isShowingProphets: true,
     };
   },
   methods: {
-    setCurrent(groupName, bookName) {
-      this.setGroup(groupName);
-      this.setBook(bookName);
-    },
-    setGroup(groupName) {
-      this.$store.commit('groupName', groupName);
-    },
-    setBook(bookName) {
-      this.$store.commit('bookName', bookName);
-    },
-    toggleTorah() {
-      this.isShowingTorah = !this.isShowingTorah;
-    },
-    toggleProphets() {
-      this.isShowingProphets = !this.isShowingProphets;
-    },
+
   },
   computed: {
-    torahNames() {
-      return Object.keys(this.$store.state.torah);
-    },
-    prophetsNames() {
-      return Object.keys(this.$store.state.prophets);
-    },
+
   },
 };
 </script>
@@ -75,7 +53,6 @@ export default {
   flex-basis: 16rem;
   position: relative;
 }
-
 
 .nav__list {
   width: 100%;
