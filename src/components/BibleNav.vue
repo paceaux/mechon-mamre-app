@@ -1,5 +1,7 @@
 <template>
-  <nav class="nav nav--tanakh" role="region" aria-label="Navigate the Tanakh by Torah, Prophets, and Writings">
+  <nav class="nav nav--tanakh"
+    role="region"
+    aria-label="Navigate the Tanakh by Torah, Prophets, and Writings">
     <h2 class="nav__title nav__grid--col-1 nav__grid--row-1">
       Torah
       <button class="nav__listToggle" v-on:click="toggleTorah()">
@@ -7,7 +9,7 @@
         <span v-if="isShowingTorah">&uarr;</span>
       </button>
     </h2>
-    <ul class="nav__list nav__grid--col-1 nav__grid--row-2" 
+    <ul class="nav__list nav__grid--col-1 nav__grid--row-2"
       v-if="isShowingTorah"
       aria-label="Books of the Torah"
       >
@@ -43,7 +45,7 @@
 </template>
 <script>
 export default {
-  name: 'biblebrowser',
+  name: 'BibleNav',
   data() {
     return {
       isShowingTorah: true,
@@ -61,12 +63,12 @@ export default {
     setBook(bookName) {
       this.$store.commit('bookName', bookName);
     },
-    toggleTorah(){
+    toggleTorah() {
       this.isShowingTorah = !this.isShowingTorah;
     },
-    toggleProphets(){
+    toggleProphets() {
       this.isShowingProphets = !this.isShowingProphets;
-    }
+    },
   },
   computed: {
     torahNames() {
