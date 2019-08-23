@@ -57,7 +57,7 @@ export default {
 
 
 .nav--tanakh {
-  background-color: #c6d5fa;
+  height: 2rem;
 }
 
 .nav--tanakh {
@@ -72,37 +72,45 @@ export default {
 }
 
 .nav__group {
-  flex-basis: 12rem;
+  flex-basis: 16rem;
+  position: relative;
 }
 
-.nav__grid--row-1 {
-  grid-row-start: 1;
-  grid-row-end: 2;
-}
-
-.nav__grid--row-2 {
-  grid-row-start: 2;
-  grid-row-end: 2;
-}
-
-.nav__grid--col-1 {
-  grid-column-start: 1;
-  grid-column-end: 2;
-}
-
-.nav__grid--col-2 {
-  grid-column-start: 2;
-  grid-column-end: 3;
-}
 
 .nav__list {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
   max-height: 12em;
+  width: 100%;
+}
+
+.nav--tanakh .nav__list {
+  position: absolute;
+  box-sizing: border-box;
+  margin: 0;
 }
 
 .nav__item {
   list-style: none;
+  text-indent: 0;
+  margin:0;
+}
+
+.nav__group {
+  background-color: var(--colorNeutralDarkest);
+}
+
+.nav__list {
+  background-color: inherit;
+}
+
+.nav__title,
+.nav__link {
+  color: var(--colorNeutralLighter);
+}
+
+.nav__link {
+  display: inline-block;
 }
 </style>

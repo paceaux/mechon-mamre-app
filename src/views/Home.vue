@@ -1,7 +1,7 @@
 <template>
   <div class="bible">
   <header class="g-header" role="banner">
-    <Intro msg="Mechon Mamre"/>
+    <Intro class="g-header__hgroup" msg="Mechon Mamre"/>
     <button class="nav__listToggle" v-on:click="toggleBibleNav()" v-bind:aria-pressed="isShowingBibleNav">
       <span v-if="!isShowingBibleNav">&darr;</span>
       <span v-if="isShowingBibleNav">&uarr;</span>
@@ -35,7 +35,14 @@ export default {
   methods: {
     toggleBibleNav() {
       this.isShowingBibleNav = !this.isShowingBibleNav;
-    }
+    },
   },
 };
 </script>
+<style>
+.g-header {
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 12rem 3rem 1fr;
+}
+</style>
