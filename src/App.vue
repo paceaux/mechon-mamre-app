@@ -12,6 +12,13 @@
 html {
   --colorNeutralDarkest: rgb(27,27,27);
   --colorNeutralLightest: rgb(245,245,245);
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
 }
 
 #nav a {
