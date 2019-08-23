@@ -9,6 +9,10 @@
 </template>
 <style>
 
+html {
+  --colorNeutralDarkest: rgb(27,27,27);
+  --colorNeutralLightest: rgb(245,245,245);
+}
 
 #nav a {
   font-weight: bold;
