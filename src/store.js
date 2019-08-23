@@ -1,9 +1,9 @@
 import Vue from 'vue';
 import Vuex from 'vuex';
 
-import { Torah, Prophets } from './data';
+import { Torah, Prophets, Writings } from './data';
 
-const BOOKS = { ...Torah, ...Prophets };
+const BOOKS = { ...Torah, ...Prophets, ...Writings };
 Vue.use(Vuex);
 
 export default new Vuex.Store({
@@ -13,6 +13,7 @@ export default new Vuex.Store({
     currentChapter: 0,
     torah: Torah,
     prophets: Prophets,
+    writings: Writings,
   },
   mutations: {
     groupName(state, groupName) {
