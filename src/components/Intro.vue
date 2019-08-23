@@ -1,6 +1,6 @@
 <template>
-  <div class="g-header__hgroup">
-    <h1 class="g-header__title">{{ msg }}</h1>
+  <div class="hgroup">
+    <h1 class="hgroup__title">{{ msg }}</h1>
   </div>
 </template>
 
@@ -13,7 +13,7 @@ export default {
 };
 </script>
 <style>
-.g-header__title {
+.hgroup__title {
   font-size: var(--smallestTitleSize)
 }
 </style>
