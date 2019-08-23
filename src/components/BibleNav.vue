@@ -1,5 +1,5 @@
 <template>
-  <nav class="nav nav--tanakh"
+  <nav class="nav"
     role="region"
     aria-label="Navigate the Tanakh by Torah, Prophets, and Writings">
 
@@ -33,22 +33,6 @@ export default {
   font-size: .8rem;
 }
 
-
-.nav--tanakh {
-  height: 2rem;
-}
-
-.nav--tanakh {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-}
-
-.nav--collapsed {
-  height: 0;
-  overflow: hidden;
-}
-
 .nav__group {
   flex-basis: 16rem;
   position: relative;
@@ -56,12 +40,6 @@ export default {
 
 .nav__list {
   width: 100%;
-}
-
-.nav--tanakh .nav__list {
-  position: absolute;
-  box-sizing: border-box;
-  margin: 0;
 }
 
 .nav__item {

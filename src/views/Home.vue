@@ -6,7 +6,7 @@
       <span v-if="!isShowingBibleNav">&darr;</span>
       <span v-if="isShowingBibleNav">&uarr;</span>
     </button>
-    <BibleNav v-bind:class="{'nav--collapsed': !isShowingBibleNav }" role="navigation"/>
+    <BibleNav class="nav--tanakh" v-bind:class="{'nav--collapsed': !isShowingBibleNav }" role="navigation"/>
   </header>
   <main>
     <BookViewer />
@@ -45,4 +45,38 @@ export default {
   grid-template-rows: 1fr;
   grid-template-columns: 12rem 3rem 1fr;
 }
+
+
+.nav--tanakh {
+  height: 2rem;
+  max-width: 100%;
+  transition: max-width .3s ease-in-out;
+}
+
+.nav--tanakh {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.nav--tanakh .nav__list {
+  position: absolute;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.nav--tanakh .nav__group{
+  transition-delay: .3s;
+  transition: flex-basis .2s ease-in-out;
+}
+
+.nav--collapsed {
+  height: 2rem;
+  overflow: hidden;
+}
+
+.nav--collapsed .nav__group {
+  flex-basis: 8rem;
+}
+
 </style>
