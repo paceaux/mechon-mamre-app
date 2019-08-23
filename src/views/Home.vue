@@ -1,7 +1,7 @@
 <template>
   <div class="bible">
   <header class="g-header" role="banner">
-    <Intro msg="JPS Hebrew-english Tanakh"/>
+    <Intro msg="Mechon Mamre"/>
     <button class="nav__listToggle" v-on:click="toggleBibleNav()" v-bind:aria-pressed="isShowingBibleNav">
       <span v-if="!isShowingBibleNav">&darr;</span>
       <span v-if="isShowingBibleNav">&uarr;</span>
