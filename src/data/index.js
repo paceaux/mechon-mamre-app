@@ -24,6 +24,20 @@ import * as Haggai from './Haggai.json';
 import * as Zechariah from './Zechariah.json';
 import * as Malachi from './Malachi.json';
 
+import * as Chronicles from './Chronicles.json';
+import * as Psalms from './Psalms.json';
+import * as Job from './Job.json';
+import * as Proverbs from './Proverbs.json';
+import * as Ruth from './Ruth.json';
+// eslint-disable-next-line camelcase
+import * as Song_of_Songs from './Song_of_Songs.json';
+import * as Ecclesiastes from './Ecclesiastes.json';
+import * as Lamentations from './Lamentations.json';
+import * as Esther from './Esther.json';
+import * as Daniel from './Daniel.json';
+// eslint-disable-next-line camelcase
+import * as Ezra_Nehemiah from './Ezra_Nehemiah.json';
+
 const Torah = {
   Genesis,
   Exodus,
@@ -54,7 +68,22 @@ const Prophets = {
   Malachi,
 };
 
+const Writings = {
+  Chronicles,
+  Psalms,
+  Job,
+  Proverbs,
+  Ruth,
+  Song_of_Songs,
+  Ecclesiastes,
+  Lamentations,
+  Esther,
+  Daniel,
+  Ezra_Nehemiah,
+};
+
 export {
   Torah,
   Prophets,
+  Writings,
 };
