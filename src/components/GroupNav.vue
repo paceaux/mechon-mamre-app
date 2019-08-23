@@ -58,6 +58,18 @@ export default {
 };
 </script>
 <style>
+
+.navGroup__title,
+.navGroup__listToggle {
+  line-height: 1.8rem;
+  height: 2rem;
+}
+
+.navGroup__listToggle {
+  border: none;
+  background-color: rgba(155,155,155, .4);
+}
+
 .navGroup__list {
   padding: 0 .618rem;
   max-height: 12rem;

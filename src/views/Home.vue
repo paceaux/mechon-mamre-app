@@ -3,8 +3,8 @@
   <header class="g-header" role="banner">
     <Intro class="g-header__hgroup" msg="Mechon Mamre"/>
     <button class="nav__listToggle" v-on:click="toggleBibleNav()" v-bind:aria-pressed="isShowingBibleNav">
-      <span v-if="!isShowingBibleNav">&darr;</span>
-      <span v-if="isShowingBibleNav">&uarr;</span>
+      <span v-if="!isShowingBibleNav">&larr;</span>
+      <span v-if="isShowingBibleNav">&rarr;</span>
     </button>
     <BibleNav class="nav--tanakh" v-bind:class="{'nav--collapsed': !isShowingBibleNav }" role="navigation"/>
   </header>
@@ -41,22 +41,25 @@ export default {
 </script>
 <style>
 .g-header {
-  display: grid;
-  grid-template-rows: 1fr;
-  grid-template-columns: 12rem 3rem 1fr;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
 }
 
-
-.nav--tanakh {
-  height: 2rem;
-  max-width: 100%;
-  transition: max-width .3s ease-in-out;
+.g-header__hgroup {
+  flex-basis: 12rem;
+  flex-grow: 1;
+  align-self: flex-start;
+  justify-self: flex-start;
 }
 
 .nav--tanakh {
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
+  height: 2rem;
+  flex-basis: 75%;
+  transition: flex-basis .3s ease-in-out;
 }
 
 .nav--tanakh .nav__list {
@@ -71,6 +74,8 @@ export default {
 }
 
 .nav--collapsed {
+  font-size: var(--smallestTextSize);
+  flex-basis: 40.5%;
   height: 2rem;
   overflow: hidden;
 }
