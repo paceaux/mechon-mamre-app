@@ -78,10 +78,6 @@ export default {
 
 
 .nav__list {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  max-height: 12em;
   width: 100%;
 }
 
