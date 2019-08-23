@@ -2,50 +2,20 @@
   <nav class="nav nav--tanakh"
     role="region"
     aria-label="Navigate the Tanakh by Torah, Prophets, and Writings">
-    <h2 class="nav__title nav__grid--col-1 nav__grid--row-1">
-      Torah
-      <button class="nav__listToggle" v-on:click="toggleTorah()">
-        <span v-if="!isShowingTorah">&darr;</span>
-        <span v-if="isShowingTorah">&uarr;</span>
-      </button>
-    </h2>
-    <ul class="nav__list nav__grid--col-1 nav__grid--row-2"
-      v-if="isShowingTorah"
-      aria-label="Books of the Torah"
-      >
-      <li
-        class="nav__item"
-        v-for="name in torahNames"
-        :key="name"
-        >
-          <a v-on:click="setCurrent('torah', name)">{{ name }}</a>
-      </li>
-    </ul>
-    <h2 class="nav__title nav_grid--col-2 nav__grid--row-1">
-      Prophets
-      <button class="nav__listToggle" v-on:click="toggleProphets()">
-        <span v-if="!isShowingProphets">&darr;</span>
-        <span v-if="isShowingProphets">&uarr;</span>
-      </button>
-    </h2>
-    <ul
-      class="nav__list nav__grid--col-2 nav__grid--row-2"
-      v-if="isShowingProphets"
-      aria-label="Books of the Prophets"
-      >
-      <li
-        class="nav__item"
-        v-for="name in prophetsNames"
-        :key="name"
-        >
-          <a v-on:click="setCurrent('prophets', name)">{{ name }}</a>
-      </li>
-    </ul>
+
+    <GroupNav readableGroupName="Torah" dataGroupName="torah" />
+    <GroupNav readableGroupName="Prophets" dataGroupName="prophets" />
+    <GroupNav readableGroupName="Writings" dataGroupName="writings" />
   </nav>
 </template>
 <script>
+import GroupNav from '@/components/GroupNav.vue';
+
 export default {
   name: 'BibleNav',
+  components: {
+    GroupNav,
+  },
   data() {
     return {
       isShowingTorah: true,
