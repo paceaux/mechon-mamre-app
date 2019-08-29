@@ -28,7 +28,10 @@
         </ul>
       </nav>
     </header>
-    <ChapterViewer v-bind:title="currentChapter.canonicalTitle" v-bind:verses="currentChapter.verses"/>
+    <ChapterViewer
+      v-bind:title="currentChapter.canonicalTitle"
+      v-bind:verses="currentChapter.verses"
+    />
     <footer class="book__footer">
       <button v-on:click="toggleChapters()">
         <span v-if="!isShowingChapters">&darr;</span>
@@ -76,7 +79,7 @@ export default {
       return groupName;
     },
     currentBookName() {
-      const bookName = this.$route.params.book || 'Genesis'
+      const bookName = this.$route.params.book || 'Genesis';
       return bookName;
     },
     currentChapterNumber() {
@@ -86,7 +89,7 @@ export default {
     book() {
       const group = this.currentGroupName;
       const book = this.currentBookName;
-       return this.$store.state[group][book].default;
+      return this.$store.state[group][book].default;
     },
     chapters() {
       return this.book.chapters;
