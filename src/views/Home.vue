@@ -16,6 +16,8 @@
   <section>
     <header>
       <h1>The Tanakh: Torah, Neviim, Kethuvim</h1>
+      <p>The Histories, prophets, and writings of the old testament.</p>
+      <p>This is an experiment going terribly wrong. All data is produced from python scripts that scraped mechon-mamre.</p>
     </header>
   </section>
   </main>
