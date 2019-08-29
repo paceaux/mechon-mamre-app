@@ -17,9 +17,6 @@
   </header>
   <main>
     <header>
-      {{$route.params.group}}
-      {{$route.params.book}}
-      {{$route.params.chapter}}
     </header>
     <BookViewer />
   </main>
