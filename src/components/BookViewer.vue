@@ -72,21 +72,21 @@ export default {
   },
   computed: {
     currentGroupName() {
-      const groupName = this.$route.params.group;
+      const groupName = this.$route.params.group || 'torah';
       return groupName;
     },
     currentBookName() {
-      const bookName = this.$route.params.book;
+      const bookName = this.$route.params.book || 'Genesis'
       return bookName;
     },
     currentChapterNumber() {
-      const chapterNumber = this.$route.params.chapter;
+      const chapterNumber = this.$route.params.chapter || '1';
       return chapterNumber;
     },
     book() {
       const group = this.currentGroupName;
       const book = this.currentBookName;
-      return this.$store.state[group][book].default;
+       return this.$store.state[group][book].default;
     },
     chapters() {
       return this.book.chapters;
@@ -95,11 +95,6 @@ export default {
       return this.chapters[this.currentChapterNumber];
     },
   },
-  beforeMount() {
-    console.log('before mount');
-    console.log('params',this.$route.params);
-    console.log(this.book);
-  }
 };
 </script>
 <style>
