@@ -1,7 +1,6 @@
 <template>
   <div class="bible">
   <header class="g-header" role="banner">
-    <GlobalHeader class="g-header__hgroup" msg="Mechon Mamre"/>
     <button class="nav__listToggle"
       v-on:click="toggleBibleNav()"
       v-bind:aria-pressed="isShowingBibleNav"

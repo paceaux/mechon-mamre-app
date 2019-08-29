@@ -1,13 +1,29 @@
 <template>
   <div id="app">
+    <GlobalHeader class="g-header__hgroup" msg="Mechon Mamre"/>
     <!-- <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div> -->
-    <router-view/> 
+    <router-view/>
+    <GlobalFooter />
   </div>
 </template>
+<script>
+import GlobalHeader from '@/components/GHeader.vue';
+import GlobalFooter from '@/components/GFooter.vue';
+export default {
+  components: {
+    GlobalHeader,
+    GlobalFooter
+  }
+}
+</script>
 <style>
+
+html, body {
+  min-height: 100%;
+}
 
 html {
   --colorNeutralDarkest: rgb(27,27,27);
@@ -21,12 +37,11 @@ body {
   padding: 0;
 }
 
-#nav a {
-  font-weight: bold;
-  color: #2c3e50;
+.bible {
+  min-height: 90vh;
 }
 
-#nav a.router-link-exact-active {
-  color: #42b983;
+.g-footer {
+
 }
 </style>

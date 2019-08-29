@@ -1,7 +1,6 @@
 <template>
   <div class="bible">
   <header class="g-header" role="banner">
-    <Intro class="g-header__hgroup" msg="Mechon Mamre"/>
     <button class="nav__listToggle" v-on:click="toggleBibleNav()" v-bind:aria-pressed="isShowingBibleNav">
       <span v-if="!isShowingBibleNav">&larr;</span>
       <span v-if="isShowingBibleNav">&rarr;</span>
@@ -18,13 +17,12 @@
 
 <script>
 // @ is an alias to /src
-import GlobalHeader from '@/components/GHeader.vue';
+import GlobalFooter from '@/components/GFooter.vue';
 import BibleNav from '@/components/BibleNav.vue';
 
 export default {
   name: 'home',
   components: {
-    GlobalHeader,
     BibleNav,
   },
   data() {
