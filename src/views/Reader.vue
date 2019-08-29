@@ -1,5 +1,5 @@
 <template>
-  <div class="bible">
+  <main class="bible">
   <header class="g-header" role="banner">
     <button class="nav__listToggle"
       v-on:click="toggleBibleNav()"
@@ -14,12 +14,12 @@
       role="navigation"
     />
   </header>
-  <main>
+  <section>
     <header>
     </header>
     <BookViewer />
+  </section>
   </main>
-  </div>
 </template>
 
 <script>

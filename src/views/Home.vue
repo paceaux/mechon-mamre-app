@@ -1,5 +1,5 @@
 <template>
-  <div class="bible">
+  <main class="bible">
   <header class="g-header" role="banner">
     <button class="nav__listToggle" v-on:click="toggleBibleNav()" v-bind:aria-pressed="isShowingBibleNav">
       <span v-if="!isShowingBibleNav">&larr;</span>
@@ -7,12 +7,12 @@
     </button>
     <BibleNav class="nav--tanakh" v-bind:class="{'nav--collapsed': !isShowingBibleNav }" role="navigation"/>
   </header>
-  <main>
+  <section>
     <header>
       <h1>The Tanakh: Torah, Neviim, Kethuvim</h1>
     </header>
+  </section>
   </main>
-  </div>
 </template>
 
 <script>

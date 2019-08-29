@@ -1,7 +1,9 @@
 <template>
-  <div class="hgroup">
-    <h1 class="hgroup__title"><router-link to="/">{{ msg }}</router-link></h1>
-  </div>
+  <header class="g-header">
+    <div class="hgroup">
+      <h1 class="hgroup__title"><router-link to="/">{{ msg }}</router-link></h1>
+    </div>
+  </header>
 </template>
 
 <script>
