@@ -20,14 +20,12 @@
 
 <script>
 // @ is an alias to /src
-import GlobalHeader from '@/components/GHeader.vue';
 import BibleNav from '@/components/BibleNav.vue';
 import BookViewer from '@/components/BookViewer.vue';
 
 export default {
   name: 'reader',
   components: {
-    GlobalHeader,
     BibleNav,
     BookViewer,
   },

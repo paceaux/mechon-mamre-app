@@ -12,12 +12,13 @@
 <script>
 import GlobalHeader from '@/components/GHeader.vue';
 import GlobalFooter from '@/components/GFooter.vue';
+
 export default {
   components: {
     GlobalHeader,
-    GlobalFooter
-  }
-}
+    GlobalFooter,
+  },
+};
 </script>
 <style>
 
@@ -39,9 +40,5 @@ body {
 
 .bible {
   min-height: 90vh;
-}
-
-.g-footer {
-
 }
 </style>

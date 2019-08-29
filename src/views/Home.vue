@@ -1,11 +1,17 @@
 <template>
   <main class="bible">
   <header class="bible__header" role="banner">
-    <button class="nav__listToggle" v-on:click="toggleBibleNav()" v-bind:aria-pressed="isShowingBibleNav">
+    <button class="nav__listToggle"
+      v-on:click="toggleBibleNav()"
+      v-bind:aria-pressed="isShowingBibleNav"
+    >
       <span v-if="!isShowingBibleNav">&larr;</span>
       <span v-if="isShowingBibleNav">&rarr;</span>
     </button>
-    <BibleNav class="nav--tanakh" v-bind:class="{'nav--collapsed': !isShowingBibleNav }" role="navigation"/>
+    <BibleNav class="nav--tanakh"
+      v-bind:class="{'nav--collapsed': !isShowingBibleNav }"
+      role="navigation"
+    />
   </header>
   <section>
     <header>
@@ -17,7 +23,6 @@
 
 <script>
 // @ is an alias to /src
-import GlobalFooter from '@/components/GFooter.vue';
 import BibleNav from '@/components/BibleNav.vue';
 
 export default {
