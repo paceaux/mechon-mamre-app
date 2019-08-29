@@ -39,16 +39,6 @@ export default {
     };
   },
   methods: {
-    setCurrent(groupName, bookName) {
-      this.setGroup(groupName);
-      this.setBook(bookName);
-    },
-    setGroup(groupName) {
-      this.$store.commit('groupName', groupName);
-    },
-    setBook(bookName) {
-      this.$store.commit('bookName', bookName);
-    },
     toggleGroup() {
       this.isShowingGroup = !this.isShowingGroup;
     },
