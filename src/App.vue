@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <GlobalHeader class="g-header__hgroup" msg="Mechon Mamre"/>
+    <GlobalHeader msg="Mechon Mamre"/>
     <!-- <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
