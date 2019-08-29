@@ -3,7 +3,10 @@
         <h2 class="navGroup__title nav__title grid__row--1 grid__col--3">
         {{readableGroupName}}
         </h2>
-        <button class="navGroup__listToggle grid__row--1 grid__col--4 nav__listToggle" v-on:click="toggleGroup()">
+        <button class="navGroup__listToggle
+         grid__row--1 grid__col--4 nav__listToggle"
+         v-on:click="toggleGroup()"
+         >
             <span v-if="!isShowingGroup">&darr;</span>
             <span v-if="isShowingGroup">&uarr;</span>
         </button>
@@ -18,7 +21,7 @@
           v-bind:class="(`navGroup__item--row-${(index + 1)%5 || 5 } navGroup__item--${index}`)"
           :key="name"
           >
-          <a class="nav__link" v-on:click="setCurrent(dataGroupName, name)">{{ name }}</a>
+          <router-link :to="(`/${dataGroupName}/${name}/1`)">{{name}}</router-link>
         </li>
         </ul>
     </div>
@@ -32,7 +35,7 @@ export default {
   },
   data() {
     return {
-        isShowingGroup: true,
+      isShowingGroup: true,
     };
   },
   methods: {

@@ -2,14 +2,22 @@
   <div class="bible">
   <header class="g-header" role="banner">
     <Intro class="g-header__hgroup" msg="Mechon Mamre"/>
-    <button class="nav__listToggle" v-on:click="toggleBibleNav()" v-bind:aria-pressed="isShowingBibleNav">
+    <button class="nav__listToggle"
+      v-on:click="toggleBibleNav()"
+      v-bind:aria-pressed="isShowingBibleNav"
+      >
       <span v-if="!isShowingBibleNav">&larr;</span>
       <span v-if="isShowingBibleNav">&rarr;</span>
     </button>
-    <BibleNav class="nav--tanakh" v-bind:class="{'nav--collapsed': !isShowingBibleNav }" role="navigation"/>
+    <BibleNav
+      class="nav--tanakh"
+      v-bind:class="{'nav--collapsed': !isShowingBibleNav }"
+      role="navigation"
+    />
   </header>
   <main>
     <header>
+      {{$route.params.group}}
       {{$route.params.book}}
       {{$route.params.chapter}}
     </header>
@@ -25,7 +33,7 @@ import BibleNav from '@/components/BibleNav.vue';
 import BookViewer from '@/components/BookViewer.vue';
 
 export default {
-  name: 'home',
+  name: 'reader',
   components: {
     Intro,
     BibleNav,

@@ -1,6 +1,6 @@
 <template>
-  <article class="book__chapter chapter" v-if="chapter" role="article" v-bind:aria-label="chapter.canonicalTitle">
-    <h2 class="chapter__title">{{chapter.canonicalTitle}}</h2>
+  <article class="book__chapter chapter" role="article" v-bind:aria-label="title">
+    <h2 class="chapter__title">{{title}}</h2>
     <article
       class="chapter__verse"
       v-for="verse of verses"
@@ -17,22 +17,15 @@
 <script>
 export default {
   name: 'chapterviewer',
+  props: {
+    title: String,
+    verses: Object,
+  },
   methods: {
 
   },
   computed: {
-    chapter() {
-      return this.$store.getters.currentChapter;
-    },
-    verses() {
-      let verses = {};
 
-      // yeah destructuring is cute until a compiler can't tell that it's af if block
-      // eslint-disable-next-line
-      if (this.chapter) verses = this.chapter.verses;
-
-      return verses;
-    },
   },
 };
 </script>

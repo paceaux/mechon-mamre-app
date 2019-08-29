@@ -19,17 +19,16 @@
             v-for="chapter of chapters"
             v-bind:key="(`chapter-nav-${chapter.chapterNumber}`)"
             >
-            <a
+            <router-link
               class="nav__itemLink"
-              v-on:click="setCurrentChapter(chapter.chapterNumber)"
-              >
+              :to="(`/${currentGroupName}/${currentBookName}/${chapter.chapterNumber}`)">
                 {{chapter.chapterNumber}}
-              </a>
+            </router-link>
           </li>
         </ul>
       </nav>
     </header>
-    <ChapterViewer />
+    <ChapterViewer v-bind:title="currentChapter.canonicalTitle" v-bind:verses="currentChapter.verses"/>
     <footer class="book__footer">
       <button v-on:click="toggleChapters()">
         <span v-if="!isShowingChapters">&darr;</span>
@@ -42,12 +41,11 @@
             v-for="chapter of chapters"
             v-bind:key="(`chapter-nav-${chapter.chapterNumber}`)"
             >
-            <a
+            <router-link
               class="nav__itemLink"
-              v-on:click="setCurrentChapter(chapter.chapterNumber)"
-              >
+              :to="(`/${currentGroupName}/${currentBookName}/${chapter.chapterNumber}`)">
                 {{chapter.chapterNumber}}
-              </a>
+            </router-link>
           </li>
         </ul>
       </nav>
@@ -64,32 +62,44 @@ export default {
   },
   data() {
     return {
-      currentChapter: String,
       isShowingChapters: true,
     };
   },
   methods: {
-    setCurrentChapter(chapterNum) {
-      this.$store.commit('chapter', chapterNum);
-    },
-    toggleChapters(){
+    toggleChapters() {
       this.isShowingChapters = !this.isShowingChapters;
-    }
+    },
   },
   computed: {
     currentGroupName() {
-      return this.$store.state.currentGroupName;
+      const groupName = this.$route.params.group;
+      return groupName;
     },
     currentBookName() {
-      return this.$store.state.currentBookName;
+      const bookName = this.$route.params.book;
+      return bookName;
+    },
+    currentChapterNumber() {
+      const chapterNumber = this.$route.params.chapter;
+      return chapterNumber;
     },
     book() {
-      return this.$store.getters.currentBook;
+      const group = this.currentGroupName;
+      const book = this.currentBookName;
+      return this.$store.state[group][book].default;
     },
     chapters() {
       return this.book.chapters;
     },
+    currentChapter() {
+      return this.chapters[this.currentChapterNumber];
+    },
   },
+  beforeMount() {
+    console.log('before mount');
+    console.log('params',this.$route.params);
+    console.log(this.book);
+  }
 };
 </script>
 <style>
