@@ -1,24 +1,20 @@
 <template>
   <main class="bible">
-  <header class="g-header" role="banner">
-    <button class="nav__listToggle"
-      v-on:click="toggleBibleNav()"
-      v-bind:aria-pressed="isShowingBibleNav"
-      >
-      <span v-if="!isShowingBibleNav">&larr;</span>
-      <span v-if="isShowingBibleNav">&rarr;</span>
-    </button>
-    <BibleNav
-      class="nav--tanakh"
-      v-bind:class="{'nav--collapsed': !isShowingBibleNav }"
-      role="navigation"
-    />
-  </header>
-  <section>
-    <header>
+    <header class="bible__header" role="banner">
+      <button class="nav__listToggle"
+        v-on:click="toggleBibleNav()"
+        v-bind:aria-pressed="isShowingBibleNav"
+        >
+        <span v-if="!isShowingBibleNav">&larr;</span>
+        <span v-if="isShowingBibleNav">&rarr;</span>
+      </button>
+      <BibleNav
+        class="nav--tanakh"
+        v-bind:class="{'nav--collapsed': !isShowingBibleNav }"
+        role="navigation"
+      />
     </header>
     <BookViewer />
-  </section>
   </main>
 </template>
 
@@ -48,17 +44,10 @@ export default {
 };
 </script>
 <style>
-.g-header {
+.bible__header {
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
-}
-
-.g-header__hgroup {
-  flex-basis: 12rem;
-  flex-grow: 1;
-  align-self: flex-start;
-  justify-self: flex-start;
 }
 
 .nav--tanakh {
