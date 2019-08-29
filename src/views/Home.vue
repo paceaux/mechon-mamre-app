@@ -10,26 +10,22 @@
   </header>
   <main>
     <header>
-      {{$route.params.book}}
-      {{$route.params.chapter}}
+      <h1>The Tanakh: Torah, Neviim, Kethuvim</h1>
     </header>
-    <BookViewer />
   </main>
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import Intro from '@/components/Intro.vue';
+import GlobalHeader from '@/components/GHeader.vue';
 import BibleNav from '@/components/BibleNav.vue';
-import BookViewer from '@/components/BookViewer.vue';
 
 export default {
   name: 'home',
   components: {
-    Intro,
+    GlobalHeader,
     BibleNav,
-    BookViewer,
   },
   data() {
     return {

@@ -1,12 +1,12 @@
 <template>
   <div class="hgroup">
-    <h1 class="hgroup__title">{{ msg }}</h1>
+    <h1 class="hgroup__title"><router-link to="/">{{ msg }}</router-link></h1>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Intro',
+  name: 'GlobalHeader',
   props: {
     msg: String,
   },
